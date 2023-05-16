@@ -1,0 +1,1 @@
+{"name":"Local: Treeversion","url":"d:\\Coding\\C++\\Unacademy\\Graph and Trees\\Practice\\Treeversion.cpp","tests":[{"id":1631607542904,"input":"1\n3\n1 0 1\n1 2\n1 3","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C++\\Unacademy\\Graph and Trees\\Practice\\Treeversion.cpp","group":"local","local":true}

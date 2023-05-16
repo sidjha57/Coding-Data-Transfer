@@ -1,0 +1,189 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text color="black" line-height="1.5" font-size="16px" />
+      <mj-section padding="0" />
+      <mj-button inner-padding="6px 25px" />
+      <mj-all font-family="Helvetica" />
+    </mj-attributes>
+    <mj-style>
+      a {
+      color: #0066cc !important;
+      }
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body width="600px">
+
+    <mj-section>
+      <mj-column padding="0px">
+        <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/email.jpg" padding="0px">
+
+        </mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="0 2px">
+
+      <mj-section>
+        <mj-column>
+
+          <mj-text>
+            Dear {{Recipient.FirstName}},
+          </mj-text>
+          <mj-text>
+
+            <p>
+              Are you ready to build
+              <a href="https://www.koireader.com/koivision/smart-ports">
+                Smart Ports of The Future
+              </a>
+              by unleashing the full power of AI? Get ready to learn from one of the best in the business!
+            </p>
+            <p>
+
+              <a href="https://container-shipping-conference.com/">
+                ptn events
+              </a>
+              and KoiReader is excited to announce that Ashutosh Prasad, Founder & CEO of KoiReader Technologies and the pioneer of AI in Logistics and Supply Chain, will be joining us as our keynote speaker on May 30-31 at Container Shipping Conference 2023. KoiReader is leading innovation and digitalization in the industry with its
+              <a href="https://blogs.nvidia.com/blog/2023/03/15/pepsi-koivision/">
+                KoiVision Platform that has received public endorsement from companies such as PepsiCo and NVIDIA
+              </a>
+
+            </p>
+
+            <p>
+              Ash is a highly experienced professional with over 20 years of experience and a proven track record of delivering industry-first innovations as part of XPO Logistics, PwC, EY, Blue Yonder, and Oracle Corporation. He has consulted with various Fortune 100 and large-sized customers, and has experience executing Digital Transformation projects globally, including the Americas, Europe, ANZ, Middle East, and APAC. As part of KoiReader, his work has been recognized by some of the
+              <a href="https://blueoceanmag.com/rainmaking-pairs-tech-startups-and-maritime-giants/">
+                leading Ports
+              </a>
+              and
+              <a href="https://enterprise.nus.edu.sg/news/twelve-start-ups-from-pier71s-smart-port-challenge-awarded-s600000-to-bring-innovative-solutions-to-maritime-market/">
+                maritime ecosystems
+              </a>
+              .
+            </p>
+
+            <p>
+              With his impressive track record in Container Shipping, Ashutosh Prasad is sure to deliver an insightful and inspiring presentation on
+              <strong>
+
+                “Optimizing the Container Shipping Industry through Emerging Technologies.”
+              </strong>
+
+            </p>
+
+          </mj-text>
+          <mj-text container-background-color="#EAF0F4">
+            Although the session is targeted at how emerging technology is being applied to enable Smart Port of The Future, the session will also deliver valuable insights to <strong> Intermodal and Drayage </strong> leaders and
+            <strong>
+              Shippers </strong> with an interest in topics such as
+            <strong>
+
+              Yard Asset Tracking without RFID and GPS sensors.
+            </strong>
+
+          </mj-text>
+
+          <mj-text>
+            <p>
+              <strong>
+                The presentation will cover:
+              </strong>
+
+            </p>
+            <p>
+
+            <ol>
+              <li>
+                Benefits of Edge Computing and IoT in Supply Chain and Ports
+              </li>
+              <li>
+                Streamlining Container Operations at the Ports through Digitalizing the Ecosystem
+              </li>
+              <li>
+                Impact of Digitalization on the Container Service Industry </li>
+              <li>
+                Reducing Trade Friction and Increasing Operational Visibility through the Digital Twin of the Ports
+              </li>
+            </ol>
+
+            </p>
+            <p>
+              To attend the session, you can book your passes at:
+              <a href="https://container-shipping-conference.com/">
+                https://container-shipping-conference.com
+
+              </a>
+
+            </p>
+          </mj-text>
+
+          <mj-text>
+            We look forward to meeting you at the event.
+
+          </mj-text>
+
+          <mj-text>
+
+            <p>
+
+              Sincerely,
+            </p>
+
+          </mj-text>
+          <mj-text padding-bottom="0px">
+            The KoiReader Team
+          </mj-text>
+
+          <mj-text color="#0066cc" text-transform="none" padding-top="0px">
+            <a href="https://www.koireader.com">
+              www.koireader.com
+            </a>
+          </mj-text>
+
+        </mj-column>
+
+      </mj-section>
+
+    </mj-wrapper>
+
+
+    <!-- Footer -->
+    <mj-wrapper background-color="#EAF0F4">
+
+
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column>
+          <mj-social font-size="12px" icon-size="20px" mode="horizontal" padding="3px">
+            <mj-social-element name="linkedin" href="https://www.linkedin.com/company/koireader/">
+              Follow us
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="black" font-size="12px" align="center" padding="3px">
+            © 2022-23 KoiReader Technologies, Inc. All rights reserved.
+            <br />
+            539 W.Commerce St. #1255, Dallas, Texas 75204, USA
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="black" font-size="14px" align="center" padding="3px" text-decoration="underline"><a href="{{Unsubscribe}}"></a>Unsubscribe</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+  </mj-body>
+</mjml>

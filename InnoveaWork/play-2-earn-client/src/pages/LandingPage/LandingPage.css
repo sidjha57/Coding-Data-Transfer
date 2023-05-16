@@ -1,0 +1,415 @@
+.landing-page {
+  background-color: white;
+  overflow-x: hidden;
+}
+
+.landing-page .hero-section {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 3% 0%;
+}
+
+.landing-page .hero-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 10%;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page .hero-section .hero-image {
+  width: 40%;
+}
+
+.landing-page .logo {
+  margin-left: 4.3%;
+  padding-top: 2.7%;
+}
+
+.landing-page .download-button {
+  color: white;
+  background-image: linear-gradient(180deg, #ffbb33, #ff8000);
+  width: 48%;
+  padding: 2.5% 0%;
+  border-radius: 4px;
+}
+
+.landing-page .hero-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 55%;
+}
+
+.landing-page .features-list {
+  background-color: rgb(9 54 184);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 1.5% 12%;
+}
+
+.landing-page .features-list .set {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.landing-page .features {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.landing-page .features img {
+  height: 75%;
+}
+
+.landing-page .feature-tagline {
+  color: white;
+  font-size: 1.2em;
+  font-weight: 100;
+}
+
+.landing-page .iphone-banner img {
+  width: 60%;
+}
+
+.landing-page .learn-module {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1% 9.5%;
+}
+
+.landing-page .learn-module .mockup-image {
+  width: 22%;
+}
+
+.landing-page .learn-module .learn-heading {
+  font-weight: 700;
+  font-size: 2em;
+}
+
+.landing-page .learn-module .learn-feature-list {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.landing-page .learn-module .learn-feature {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-top: 6%;
+  padding-left: 2%;
+}
+
+.landing-page .learn-module .learn-feature .feature-heading {
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+.landing-page .learn-module .learn-feature img {
+  width: 11.5%;
+}
+
+.landing-page .learn-module .learn-feature .learn-content {
+  margin-left: 3.5%;
+  margin-top: 1.5%;
+}
+
+.landing-page .learn-module .learn-feature .feature-description {
+  color: #4f4f4f;
+  font-size: 1.1em;
+  margin-top: 2%;
+  font-weight: 500;
+}
+
+.landing-page .learn-module .start-learning {
+  background-image: linear-gradient(180deg, #ffbb33, #ff8000);
+  color: white;
+  padding: 1.5% 6%;
+  margin-top: 5%;
+  border-radius: 5px;
+  font-size: 1.4em;
+  font-weight: 500;
+}
+
+.landing-page .testimonials {
+  padding: 1% 9.5%;
+}
+
+.landing-page .testimonials .testimonials-list {
+  /* display: flex;
+    flex-direction: row; */
+  margin-top: 2%;
+
+  display: flex;
+  padding: 25px 0px;
+  list-style: none;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+}
+
+.landing-page .testimonials .testimonials-heading {
+  font-weight: 700;
+  font-size: 2em;
+}
+
+.landing-page .testimonials .testimonial-card {
+  border: gray 1px solid;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  flex: 0 0 35%;
+  justify-content: space-between;
+  padding: 5% 2%;
+  margin-right: 2%;
+  height: 50%;
+}
+
+.landing-page .testimonials .testimonial-card .testimonial-head {
+  display: flex;
+  flex-direction: row;
+}
+
+.landing-page .testimonials .testimonial-card img {
+  height: 15%;
+  width: 15%;
+  border-radius: 100%;
+  margin-right: 3%;
+}
+
+.landing-page
+  .testimonials
+  .testimonial-card
+  .testimonial-body
+  .testimonial-name {
+  font-size: 1.6em;
+  font-weight: 700;
+  margin-bottom: 5%;
+  margin-top: 3%;
+}
+
+.landing-page
+  .testimonials
+  .testimonial-card
+  .testimonial-body
+  .testimonial-content {
+  font-weight: 600;
+  font-size: 0.87em;
+}
+
+.footer {
+  background-color: #0836b8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2.5% 2%;
+}
+
+.landing-page .footer .footer-logo {
+  width: 14%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2%;
+}
+
+.landing-page .footer .footer-tabs {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* padding: 1% 10%; */
+  color: #e3e3e3;
+}
+
+.landing-page .footer .footer-tabs .footer-tab {
+  margin: 0 40%;
+  white-space: nowrap;
+}
+
+.landing-page .footer .social-media {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 2.5% 0;
+}
+
+.landing-page .footer .social-media img {
+  margin: 1% 10%;
+}
+
+.landing-page .for-mobile{
+  display: none;
+  margin-bottom: 10%;
+}
+
+.landing-page .for-desktop{
+  display: block;
+}
+
+/* Hide scrollbar when there is no overflow content */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+@media only screen and (max-width: 750px) {
+
+    .landing-page .hero-section {
+  background-attachment: fixed;
+  height: 100vh;
+      }
+
+  .landing-page .hero-content {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  
+
+  .landing-page .hero-section .hero-image {
+    width: 100%;
+  }
+
+  .landing-page .logo {
+    padding-top: 10%;
+    margin-left: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .landing-page .hero-content .hero-content-1 {
+    font-size: 1.7em;
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+  }
+
+  .landing-page .hero-content .hero-content-2 {
+    font-size: 1em;
+  }
+
+  .landing-page .hero-left {
+    width: 100%;
+    display: flex;
+    text-align: center;
+  }
+
+  .landing-page .download-button {
+    color: white;
+    background-image: linear-gradient(180deg, #ffbb33, #ff8000);
+    width: 100%;
+    padding: 3% 12%;
+    border-radius: 4px;
+    font-size: 1em;
+  }
+
+  .landing-page .features-list {
+    flex-direction: column;
+  }
+
+  .landing-page .feature-tagline {
+    font-size: 0.8em;
+    font-weight: 400;
+  }
+
+  .landing-page .features-list .set {
+    margin: 5% 0;
+  }
+
+  .landing-page .features img {
+    height: 60%;
+  }
+
+  .landing-page .iphone-banner img {
+    width: 100%;
+  }
+
+  .landing-page .learn-module {
+    flex-direction: column-reverse;
+  }
+
+  .landing-page .learn-module .mockup-image {
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .landing-page .learn-module .learn-heading {
+    font-size: 1.3em;
+    margin-top: 0%;
+  }
+
+  .landing-page .learn-module .learn-feature {
+    flex-direction: column;
+  }
+
+  .landing-page .learn-module .learn-feature .learn-content {
+    margin-left: 0%;
+  }
+
+  .landing-page .learn-module .learn-feature img {
+    width: 16%;
+  }
+
+  .landing-page .learn-module .learn-feature .feature-heading {
+    font-size: 1em;
+  }
+
+  .landing-page .learn-module .learn-feature .feature-description {
+    font-size: 0.9em;
+  }
+
+  .landing-page .learn-module .start-learning {
+    width: 100%;
+    font-size: 0.9em;
+    padding: 3% 6%;
+    font-weight: 700;
+  }
+
+.landing-page .testimonials .testimonials-heading {
+    font-size: 1.4em;
+    margin-top: 8%;
+}
+
+  .landing-page .testimonials .testimonial-card {
+    flex: 0 0 100%;
+  }
+
+  .landing-page
+  .testimonials
+  .testimonial-card
+  .testimonial-body
+  .testimonial-name {
+  font-size: 1.2em;
+}
+
+  .landing-page .footer {
+    padding: 8% 2%;
+  }
+
+  .landing-page .footer .footer-logo {
+    width: 37%;
+  }
+
+  .landing-page .footer .footer-tabs .footer-tab {
+    margin: 5% 10%;
+  }
+
+  .landing-page .footer .footer-text{
+    font-size: 0.8em;
+  }
+
+  .landing-page .for-desktop{
+    display: none;
+  }
+
+  .landing-page .for-mobile{
+    display: block;
+  }
+}

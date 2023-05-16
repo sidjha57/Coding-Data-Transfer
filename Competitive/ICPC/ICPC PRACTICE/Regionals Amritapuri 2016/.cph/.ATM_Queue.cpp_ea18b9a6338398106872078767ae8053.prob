@@ -1,0 +1,1 @@
+{"name":"Local: ATM_Queue","url":"/home/siddharth/Coding/ICPC/ICPC PRACTICE/Regionals Amritapuri 2016/ATM_Queue.cpp","tests":[{"id":1648179650575,"input":"3\n3 1\n6 3\n30 23","output":"yes\nno"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/siddharth/Coding/ICPC/ICPC PRACTICE/Regionals Amritapuri 2016/ATM_Queue.cpp","group":"local","local":true}

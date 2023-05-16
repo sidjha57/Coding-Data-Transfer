@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="input.css">
+    <title>Microsoft Clone</title>
+</head>
+<body>
+    <div class="flex items-center justify-between p-2 navbar">
+      <div class="flex items-center justify-center md:order-2">
+        <div class="inline-block p-2 cursor-pointer hamburger md:hidden">
+          <div class="line h-0.5 w-6 my-1 bg-black"></div>
+          <div class="line h-0.5 w-6 my-1 bg-black"></div>
+          <div class="line h-0.5 w-6 my-1 bg-black"></div>
+        </div>
+        <div class="search md:hidden">SearchIcon</div>
+      </div>
+
+      <div class="flex text-center logo md:order-1">
+        Microsoft
+        <div class="absolute inset-0 -translate-x-96 md:space-x-2 md:translate-x-0 bg-slate-100 md:w-auto md:bg-white w-fit md:mx-4 md:flex features md:static">
+          <div class="cursor-pointer fitem hover:underline"> Microsoft 365</div>
+          <div class="cursor-pointer fitem hover:underline"> Teams </div>
+          <div class="cursor-pointer fitem hover:underline"> Windows </div>
+          <div class="cursor-pointer fitem hover:underline"> Surface </div>
+          <div class="cursor-pointer fitem hover:underline"> Xbox </div>
+          <div class="cursor-pointer fitem hover:underline"> Support </div>
+        </div>
+      </div>
+      <div class="flex text-center cart md:order-3">
+        <div class="hidden search md:block">SearchIcon</div>
+        <div>
+          Cart Account
+        </div>
+      </div>
+    </div>
+
+    <div class="flex flex-col-reverse slider md:flex-row bg-[#e6e6e6]">
+      <div class="left">
+        <h1 class="text-4xl"></h1>
+      </div>
+      <div class="right">
+        <img src="assets/wall1.avif" alt="">
+      </div>
+    </div>
+</body>
+</html>
+
+

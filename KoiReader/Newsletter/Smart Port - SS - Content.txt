@@ -1,0 +1,18 @@
+- KoiGuardTM powered Container Scanning at Latin American Conglomerate
+
+- How we leveraged our AutonomousOCR technology to capture Container and Chassis attributes with 100% accuracy.
+
+
+- KoiScanTM powered Container MRO Automation for an European Port
+
+- How we automated Container Maintenance and Repair Operations using LIDAR and Visual AI.
+
+
+- KoiTrackTM powered Asset Tracking for a leading Maritime Corporation
+
+- How we used our AutonomousOCR technology, IoT sensors, and Machine Vision to enable Lifecycle Tracking of Assets.
+
+
+- KoiKioskTM powered Document Digitalization and Driver Engagement
+
+- How we used our AutonomousOCR API to digitalize transportation documents and enable driver engagement.

@@ -1,0 +1,36 @@
+h2 {
+    color: red;
+}
+
+ 
+p {
+    font-size: 30px;
+}
+
+li {
+    color: brown;
+}
+
+#last-item {
+    color: black;
+}
+
+.list-item {
+    color: rgb(80, 0, 253);
+}
+
+ul li {
+    font-family: 'Times New Roman', Times, serif  ; /* X Y  Y is decendant of X */
+}
+
+div > p {
+    font-weight: bolder; /* X > Y Y is immediate child of X */
+}
+
+#last-item + li {
+    color: chartreuse; /* X + Y Y is  adjacent node of X */
+}
+
+span ~ h1 {
+    color: aquamarine; /* X ~ Y sets the css for all Y elements that are precided by a X element with same parent*/
+}

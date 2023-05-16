@@ -1,0 +1,1 @@
+{"name":"Local: Print_unique_prefix","url":"e:\\Coding\\C++\\Unacademy\\Tries\\Print_unique_prefix.cpp","tests":[{"id":1625944993289,"input":"5\ndiya\nhello\ndog\ndove\ndelta","output":"di\ndov\ndog\nde\nh"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\C++\\Unacademy\\Tries\\Print_unique_prefix.cpp","group":"local","local":true}

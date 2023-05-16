@@ -1,0 +1,54 @@
+[
+  {
+    "ipid": 1,
+    "entry_amount": 500,
+    "platform_commission": 0.25,
+    "currency": "INR",
+    "user_maximum_portfolios": 5,
+    "instruments_required": 4,
+    "booster1": 2,
+    "booster2": 1.5,
+    "booster3": null,
+    "contest_minimum_portfolios": 100,
+    "contest_maximum_portfolios": 100000
+  },
+  {
+    "ipid": 2,
+    "entry_amount": 750,
+    "platform_commission": 0.25,
+    "currency": "INR",
+    "user_maximum_portfolios": 5,
+    "instruments_required": 4,
+    "booster1": 2,
+    "booster2": 1.5,
+    "booster3": null,
+    "contest_minimum_portfolios": 100,
+    "contest_maximum_portfolios": 100000
+  },
+  {
+    "ipid": 3,
+    "entry_amount": 150,
+    "platform_commission": 0.2,
+    "currency": "INR",
+    "user_maximum_portfolios": 5,
+    "instruments_required": 4,
+    "booster1": 2,
+    "booster2": 1.5,
+    "booster3": null,
+    "contest_minimum_portfolios": 100,
+    "contest_maximum_portfolios": 100000
+  },
+  {
+    "ipid": 4,
+    "entry_amount": 250,
+    "platform_commission": 0.2,
+    "currency": "INR",
+    "user_maximum_portfolios": 5,
+    "instruments_required": 4,
+    "booster1": 2,
+    "booster2": 1.5,
+    "booster3": null,
+    "contest_minimum_portfolios": 100,
+    "contest_maximum_portfolios": 100000
+  }
+]

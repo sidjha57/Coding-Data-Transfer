@@ -1,0 +1,1 @@
+{"name":"Local: Fibonacci_with_GCD","url":"d:\\Coding\\C++\\Unacademy\\Number Theory\\Fibonacci_with_GCD.cpp","tests":[{"id":1629263376868,"input":"3 2\n2 4 8\n1 3\n2 3","output":"1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\C++\\Unacademy\\Number Theory\\Fibonacci_with_GCD.cpp","group":"local","local":true}

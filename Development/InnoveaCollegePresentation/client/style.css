@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.root,
+#root,
+#docs-root {
+  --primary-color: #002485;
+  --dark-background: #dfe1f9;
+  --light-background: #F2F0F4;
+  --background: #f4f5f4;
+  --light-text: #77767A;
+  --dark-text: #5e5f63;
+}
+
+@font-face {
+  font-family: 'Satoshi-Variable';
+  src: url('/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Variable.woff2') format('woff2'),
+       url('/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Variable.woff') format('woff'),
+       url('/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Variable.ttf') format('truetype');
+       font-weight: 300 900;
+       font-display: swap;
+       font-style: normal;
+}

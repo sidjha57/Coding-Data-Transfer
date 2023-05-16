@@ -1,0 +1,442 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text line-height="1.5" align="left" />
+      <mj-section padding="0" />
+      <mj-button inner-padding="6px 25px" />
+      <mj-all font-family="Helvetica" />
+    </mj-attributes>
+
+    <mj-style>
+
+      .learn-more-btn img {
+      width: 20px;
+      height: 10px;
+      display: inline;
+      vertical-align: center;
+      margin-left: 6px;
+      }
+
+
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/banner-v3.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Date  -->
+
+
+
+
+      <mj-section>
+        <mj-column>
+          <mj-text font-size="22px" font-weight="bold" padding-top="20px" padding-bottom="0">
+            PepsiCo Leads in AI-Powered Automation With KoiVision Platform
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image padding="0" src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/line-16.png">
+
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" color="#8C969B" font-size="12px">
+            9 May 2023
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+
+        <mj-column>
+          <mj-image padding="0px 20px" src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/koi-vision-Image.png">
+          </mj-image>
+          <mj-text font-size="16px" padding-top="20px" color="black">
+            Global leader in convenient foods and beverages PepsiCo is
+            deploying advanced machine vision technology from startup
+            KoiReader Technologies, an NVIDIA Metropolis partner, to
+            improve efficiency and accuracy in its distribution process
+          </mj-text>
+
+          <mj-button css-class="learn-more-btn" background-color="#1574b5" color="black" padding="40px 10px" border-radius="5px" color="black" font-size="16px" href="https://blogs.nvidia.com/blog/2023/03/15/pepsi-koivision/">
+
+            Learn More
+
+
+            >
+          </mj-button>
+
+
+        </mj-column>
+      </mj-section>
+
+
+    <mj-raw>
+      <!-- Cards  -->
+    </mj-raw>
+    <mj-wrapper background-color="#F2F7F9">
+      <!-- Latest Highlights  -->
+
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" font-size="22px" font-weight="bold" padding-bottom="0">
+            Latest Highlights
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image padding="0 0 30px 0" src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/line-16.png">
+
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+      <!-- Latest Highlights  -->
+
+      <mj-section>
+        <mj-group>
+
+          <mj-column vertical-align="middle" padding-left="32px" width="35%">
+            <mj-raw>
+              <hr style="border: 1px solid #00A1C6" />
+            </mj-raw>
+            <!--
+            <mj-text padding="0px" font-size="1px" color="#00A1C6" container-background-color="#00A1C6">.</mj-text>
+-->
+          </mj-column>
+          <mj-column vertical-align="middle" width="30%">
+            <mj-text color="#00A1C6" align="center" font-weight="bold" padding="8px" letter-spacing="3px" font-size="16px">
+              SMART YARD
+            </mj-text>
+          </mj-column>
+          <mj-column vertical-align="middle" padding-right="32px" width="35%">
+            <mj-raw>
+              <hr style="border: 1px solid #00A1C6" />
+            </mj-raw>
+            <!--
+            <mj-text padding="0px" font-size="1px" color="#00A1C6" container-background-color="#00A1C6">.</mj-text>
+-->
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section border="1px" padding="10px">
+
+        <mj-column inner-border="1px solid lightgrey" inner-background-color="#FFFFFF" padding="20px">
+          <mj-image padding="10px 10px 4px 10px" src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/koiradar-powered-yard-asset-tracking-at-a-fortune-50.33f1c41c.png"></mj-image>
+          <mj-text font-weight="bold" padding="8px 10px 4px 10px" font-size="16px">KoiRadar: Autonomous Yard Asset Tracking</mj-text>
+          <mj-text padding="4px 10px 20px 10px" font-size="14px">Without RFID / GPS Sensors or Yard mules...</mj-text>
+
+
+
+          <mj-button css-class="learn-more-btn" align="left" background-color="transparent" color="black" padding="20px 10px 15px 10px" border="2px solid #1097E2" border-radius="5px" href="https://www.koireader.com/koivision/smart-yard" font-size="14px">Learn More
+            >
+          </mj-button>
+        </mj-column>
+
+        <mj-column inner-border="1px solid lightgrey" inner-background-color="#FFFFFF" padding="20px">
+          <mj-image padding="10px 10px 4px 10px" src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/koiguard-powered-gate-operations-at-a-fortune-500.88d4c277.png"></mj-image>
+          <mj-text font-weight="bold" padding="8px 10px 4px 10px" font-size="16px">KoiGuard: The Future of Gate Operation
+          </mj-text>
+          <mj-text padding="4px 10px 20px 10px" font-size="14px">Autonomous Gate Operations with Digital Audit Trail...</mj-text>
+
+          <mj-button css-class="learn-more-btn" align="left" background-color="transparent" color="black" padding="20px 10px 15px 10px" border="2px solid #1097E2" border-radius="5px" href="https://www.koireader.com/koivision/smart-yard" font-size="14px">Learn More
+            >
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-group>
+          <mj-column vertical-align="middle" padding-left="32px" width="25%">
+            <mj-raw>
+              <hr style="border: 1px solid #E58005" />
+            </mj-raw>
+            <!--
+            <mj-text padding="0px" font-size="1px" color="#E58005" container-background-color="#E58005">.</mj-text>
+-->
+          </mj-column>
+          <mj-column vertical-align="middle" width="50%">
+            <mj-text align="center" padding="8px" font-weight="bold" color="#E58005" letter-spacing="3px" font-size="16px">
+              SMART WAREHOUSE
+            </mj-text>
+          </mj-column>
+          <mj-column vertical-align="middle" padding-right="32px" width="25%">
+            <mj-raw>
+              <hr style="border: 1px solid #E58005" />
+            </mj-raw>
+            <!--
+            <mj-text padding="0px" font-size="1px" color="#E58005" container-background-color="#E58005">.</mj-text>
+-->
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section border="1px" padding="10px">
+        <mj-column inner-border="1px solid lightgrey" inner-background-color="#FFFFFF" padding="20px">
+          <mj-image padding="10px 10px 4px 10px" src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/so-what-if-amazon-announced-it-wants.e9a60ff4.png"></mj-image>
+          <mj-text font-weight="bold" padding="8px 10px 4px 10px" font-size="16px">So what if Amazon wants to kill the barcode?</mj-text>
+          <mj-text padding="4px 10px 20px 10px" font-size="14px">Dissecting hype versus reality for the broader industry...</mj-text>
+
+          <mj-button css-class="learn-more-btn" align="left" background-color="transparent" color="black" padding="20px 10px 15px 10px" border="2px solid #E58005" border-radius="5px" href="https://koivision.substack.com/p/so-what-if-amazon-announced-it-wants" font-size="14px">Learn More
+            >
+          </mj-button>
+        </mj-column>
+
+
+        <mj-column inner-border="1px solid lightgrey" inner-background-color="#FFFFFF" padding="20px">
+          <mj-image padding="10px 10px 4px 10px" src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/koireader-authors-worlds-5th-largest.b2ff197f.png"></mj-image>
+          <mj-text font-weight="bold" padding="8px 10px 4px 10px" font-size="16px">KoiReader authors India's National Logistics Policy</mj-text>
+          <mj-text padding="4px 10px 20px 10px" font-size="14px">As founding members of the Warehousing Association of India...
+
+          </mj-text>
+          <mj-button css-class="learn-more-btn" align="left" background-color="transparent" color="black" padding="20px 10px 15px 10px" border="2px solid #E58005" border-radius="5px" href="https://koivision.substack.com/p/koireader-authors-worlds-5th-largest" font-size="14px">Learn More
+            >
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-group>
+          <mj-column vertical-align="middle" padding-left="32px" width="18%">
+            <mj-raw>
+              <hr style="border: 1px solid #02AFA2" />
+            </mj-raw>
+            <!--
+            <mj-text padding="0px" font-size="1px" color="#02AFA2" container-background-color="#02AFA2">.</mj-text>
+-->
+          </mj-column>
+          <mj-column vertical-align="middle" width="64%">
+            <mj-text color="#02AFA2" align="center" padding="8px" font-weight="bold" letter-spacing="3px" font-size="16px">
+              SMART PORT AND INTERMODAL
+            </mj-text>
+          </mj-column>
+          <mj-column vertical-align="middle" padding-right="32px" width="18%">
+            <mj-raw>
+              <hr style="border: 1px solid #02AFA2" />
+            </mj-raw>
+            <!--
+            <mj-text padding="0px" font-size="1px" color="#02AFA2" container-background-color="#02AFA2">.</mj-text>
+-->
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <mj-section border="1px" padding="10px">
+
+        <mj-column inner-border="1px solid lightgrey" inner-background-color="#FFFFFF" padding="20px">
+          <mj-image padding="10px 10px 4px 10px" src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/shipping-banner-v1.png"></mj-image>
+          <mj-text font-weight="bold" padding="26px 10px 4px 10px" font-size="16px">Revolutionizing Container Shipping with KoiReader</mj-text>
+          <mj-text padding="4px 10px 20px 10px" font-size="14px">Unleashing the full power of AI to manage Intermodal Operations...
+          </mj-text>
+          <mj-button css-class="learn-more-btn" align="left" background-color="transparent" color="black" padding="20px 10px 15px 10px" border="2px solid #02AFA2" border-radius="5px" href="https://container-shipping-conference.com/" font-size="14px">Learn More
+            >
+          </mj-button>
+        </mj-column>
+
+        <mj-column inner-border="1px solid lightgrey" inner-background-color="#FFFFFF" padding="20px">
+          <mj-image padding="10px 10px 4px 10px" src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/koiscan-powered-container-mro-automation-for-an-european-port.90a71fb6.png"></mj-image>
+          <mj-text font-weight="bold" padding="8px 10px 4px 10px" font-size="16px">Automating Container M&R Operations with KoiScan
+          </mj-text>
+          <mj-text padding="4px 10px 20px 10px" font-size="14px">Vision-AI to automate Container MRO and improve efficiency...</mj-text>
+
+          <mj-button css-class="learn-more-btn" align="left" background-color="transparent" color="black" padding="20px 10px 15px 10px" border="2px solid #02AFA2" border-radius="5px" href="https://www.koireader.com/koivision/smart-ports" font-size="14px">Learn More
+            >
+          </mj-button>
+        </mj-column>
+
+
+
+      </mj-section>
+
+
+
+
+    </mj-wrapper>
+
+    <!-- Recent News -->
+    <mj-wrapper>
+
+      <!-- Recent News and Highlights  -->
+
+
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" font-size="22px" font-weight="bold" padding-bottom="0">
+
+            Recent News and Industry Insights
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-image padding="0 0 30px 0" src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/line-16.png">
+
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column inner-background-color="#F2F7F9" padding="0px 10px" vertical-align="top">
+          <mj-button background-color="transparent" padding="10px 0 0 0" align="left" color="black" font-size="16px" text-align="left" href="https://www.supplychaindive.com/news/pepsico-improves-distribution-process-KoiReader-Technologies-ai/646118/">
+            PepsiCo touts AI barcode readers for distribution centers
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column inner-background-color="#F2F7F9" padding="0px 10px">
+          <mj-button background-color="transparent" padding="0 0 10px 0" align="right" font-weight="bold" color="#0072EC" font-size="14px" href="https://www.supplychaindive.com/news/pepsico-improves-distribution-process-KoiReader-Technologies-ai/646118/">
+            Supply chain Dive
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-spacer height="15px" />
+
+      <mj-section>
+        <mj-column inner-background-color="#F2F7F9" padding="0px 10px" vertical-align="top">
+          <mj-button background-color="transparent" padding="10px 0 0 0" align="left" color="black" font-size="16px" text-align="left" href="https://www.truckinginfo.com/10186823/ryder-aurora-partner-on-fleet-maintenance-for-autonomous-trucking">
+            Ryder, Aurora Partner for Autonomous Truck Maintainence
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column inner-background-color="#F2F7F9" padding="0px 10px">
+          <mj-button background-color="transparent" padding="0 0 10px 0" align="right" font-weight="bold" color="#0072EC" font-size="14px" href="https://www.truckinginfo.com/10186823/ryder-aurora-partner-on-fleet-maintenance-for-autonomous-trucking">
+            Truckinginfo
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-spacer height="15px" />
+
+      <mj-section>
+        <mj-column inner-background-color="#F2F7F9" padding="0px 10px" vertical-align="top">
+          <mj-button background-color="transparent" padding="10px 0 0 0" align="left" color="black" font-size="16px" text-align="left" href="https://www.manufacturingtodayindia.com/sectors/watchout-for-these-ai-startups">
+            Manufacturing Today Names KoiReader Technologies Among Top AI Startups to Watch in 2023
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column inner-background-color="#F2F7F9" padding="0px 10px">
+          <mj-button background-color="transparent" padding="0 0 10px 0" align="right" font-weight="bold" color="#0072EC" font-size="14px" href="https://www.manufacturingtodayindia.com/sectors/watchout-for-these-ai-startups">
+            Manufacturing Today
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-spacer height="15px" />
+
+      <mj-section>
+        <mj-column inner-background-color="#F2F7F9" padding="0px 10px" vertical-align="top">
+          <mj-button background-color="transparent" padding="10px 0 0 0" align="left" color="black" font-size="16px" text-align="left" href="https://www.cbinsights.com/research/report/venture-trends-q1-2023/">
+            The global venture ecosystem continues to cool off in Q1’23 as funding decreases 13% quarter-over-quarter
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column inner-background-color="#F2F7F9" padding="0px 10px">
+          <mj-button background-color="transparent" padding="0 0 10px 0" align="right" font-weight="bold" color="#0072EC" font-size="14px" href="https://www.cbinsights.com/research/report/venture-trends-q1-2023/">
+            CB Insights
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-spacer height="15px" />
+
+      <mj-section>
+        <mj-column inner-background-color="#F2F7F9" padding="0px 10px" vertical-align="top">
+          <mj-button background-color="transparent" padding="10px 0 0 0" align="left" color="black" font-size="16px" text-align="left" href="https://www.freightwaves.com/news/what-to-keep-in-mind-when-introducing-dashcams-to-your-fleet">
+            What to keep in mind when introducing dashcams to your fleet
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column inner-background-color="#F2F7F9" padding="0px 10px">
+          <mj-button background-color="transparent" padding="0 0 10px 0" align="right" font-weight="bold" color="#0072EC" font-size="14px" href="https://www.freightwaves.com/news/what-to-keep-in-mind-when-introducing-dashcams-to-your-fleet">
+            FreightWaves
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-raw>
+          <hr style="border: 3px solid #DAE4E8" />
+        </mj-raw>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper background-color="#F2F7F9">
+
+
+
+      <!-- Footer -->
+      <mj-section padding="0 10px 0 50px">
+        <mj-group>
+          <mj-column vertical-align="middle">
+            <mj-text padding="0px" align="right" font-size="12px">
+              Follow us:
+            </mj-text>
+          </mj-column>
+          <mj-column vertical-align="middle">
+            <mj-social align="left" font-size="12px" icon-size="20px" mode="horizontal" padding="3px">
+              <mj-social-element name="linkedin" href="https://www.linkedin.com/company/koireader/">
+
+              </mj-social-element>
+            </mj-social>
+          </mj-column>
+        </mj-group>
+
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="black" font-size="12px" align="center" padding="3px 20px 3px 20px">
+            © 2019-23 KoiReader Technologies, Inc. All rights reserved
+            <br />
+            539 W.Commerce St. #1255, Dallas, Texas 75204, USA
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="#737E82" font-size="10px" align="center" padding="3px" text-decoration="underline"><a href="{{Unsubscribe}}"></a>Unsubscribe</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+
+  </mj-body>
+</mjml>

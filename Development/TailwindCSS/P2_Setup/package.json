@@ -1,0 +1,19 @@
+{
+  "name": "p2_setup",
+  "version": "1.0.0",
+  "description": "Setting Up TailwindCSS for Production",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "Siddharth",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "vite": "^4.1.1"
+  }
+}

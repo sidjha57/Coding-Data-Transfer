@@ -1,0 +1,1 @@
+{"name":"Local: DSU","url":"/home/siddharth/Coding/C++/Unacademy/Disjoint Set Union/DSU.cpp","tests":[{"id":1644860299434,"input":"1\n10 3\n1 2\n3 1\n4 5\n6 1\n8 2\n9 10\n1 1\n1 1\n1 1\n1 1\n3\n10\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/siddharth/Coding/C++/Unacademy/Disjoint Set Union/DSU.cpp","group":"local","local":true}

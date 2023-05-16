@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KoiReader</title>
+    <style>
+        body {
+            font-family: Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        header {
+            color: black;
+        }
+
+        .date {
+            margin: 20px;
+        }
+
+        .container {
+            margin: 20px;
+        }
+
+        article {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 20px;
+        }
+
+        .article-text {
+            margin-bottom: 20px;
+        }
+
+        .article-text h2 {
+            margin: 0;
+        }
+
+        .article-image-container {
+            margin-bottom: 20px;
+        }
+
+        .article-image-container img {
+            max-width: 100%;
+        }
+
+        a {
+            color: #013963;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .line {
+            border-bottom: 1px solid #d8d8d8;
+            margin: 20px 0;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        section h2 {
+            margin: 0;
+        }
+
+        .card-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .card {
+            background-color: #fefefe;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+            margin-bottom: 20px;
+            overflow: hidden;
+            width: calc(50% - 10px);
+        }
+
+        .card img {
+            max-width: 100%;
+        }
+
+        .card h3 {
+            margin: 10px;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+
+        .card p {
+            margin: 0 10px 20px;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            line-clamp: 3;
+            -webkit-box-orient: vertical;
+        }
+
+        .card a {
+            display: block;
+            color: #013963;
+            margin: 0 10px 10px 10px;
+        }
+
+        .news-container {
+            margin-bottom: 20px;
+            /* display: flex;
+            flex-wrap: wrap; */
+        }
+
+        .news {
+            background-color: #fefefe;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+            margin-right: 10px;
+            margin-bottom: 30px;
+            overflow: hidden;
+        }
+
+        .news h4 {
+            margin: 10px;
+        }
+
+        .read-more {
+            background-color: #013963;
+            color: white;
+            padding: 5px;
+            text-align: right;
+        }
+
+        .read-more a {
+            color: white;
+            display: block;
+            text-decoration: none;
+        }
+
+
+        .footer {
+            justify-content: space-between;
+            align-items: center;
+            background-color: #013963;
+            padding: 10px;
+            font-size: 15px;
+            line-height: 20px;
+            color: #ffffff;
+        }
+
+        .footer__links {
+            text-align: center;
+            gap: 20px;
+        }
+
+        .footer__links img {
+            width: 15px;
+            height: 15px;
+            margin-right: 5px;
+        }
+
+        .footer__link {
+            color: #ffffff;
+            text-decoration: none;
+        }
+
+        .footer__address {
+            text-align: center;
+        }
+
+        /* Mobile Styles */
+        @media only screen and (max-width: 400px) {
+            .card {
+                width: calc(100% - 10px);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <img src="Header_light.png" alt="">
+        <h3 class="date">
+            Apr-17-2023
+        </h3>
+    </header>
+
+
+
+    <div class="container">
+        <article>
+            <div class="article-text">
+                <h2>PepsiCo Leads in AI-Powered Automation With KoiVision Platform</h2>
+            </div>
+
+            <div class="article-image-container">
+                <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd83d0414-4e52-4dfb-b628-16945d687ac3_4445x2334.png"
+                    alt="Article Image">
+            </div>
+            <div class="article-text">
+                <p>Global leader in convenient foods and beverages PepsiCo is deploying advanced machine vision
+                    technology from startup KoiReader Technologies, an NVIDIA Metropolis partner, to improve efficiency
+                    and accuracy in its distribution process.</p>
+                <a href="https://koivision.substack.com/p/pepsico-leads-in-ai-powered-automation">Learn More >></a>
+            </div>
+        </article>
+        <div class="line"></div>
+
+        <section>
+            <h2>The Latest Highlights</h2>
+        </section>
+
+
+
+        <div class="card-container">
+            <div class="card">
+                <img src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/so-what-if-amazon-announced-it-wants.e9a60ff4.png"
+                    alt="Card Image 1">
+                <h3>Part 1 of 4. So what if Amazon wants to kill the barcode?</h3>
+                <p>Dissecting hype versus reality of this announcement for the broader industry. Immediately after the
+                    news came out from Amazon, many industry connections sent over the article to us. While it may sound
+                    like a cool innovation, attempts to eliminate label scanning isn't a new concept; several different
+                    approaches have been tried and several more are possible. But despite these possibilities, it is
+                    simply not going to happen for the wider industry... </p>
+                <a href="https://koivision.substack.com/p/so-what-if-amazon-announced-it-wants">Learn More >></a>
+            </div>
+            <div class="card">
+                <img src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/what-recent-evolutions-have-taken.8b3cab28.png"
+                    alt="Card Image 2">
+                <h3>Recent evolutions in label scanning technology</h3>
+                <p>KoiReader's AutonomousOCR technology delivered 99.9% label scanning accuracy even with the most
+                    complex labels for a Fortune 50 organization.</p>
+                <a href="https://koivision.substack.com/p/what-recent-evolutions-have-taken">Learn More >></a>
+            </div>
+            <div class="card">
+                <img src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/koireader-authors-worlds-5th-largest.b2ff197f.png"
+                    alt="Card Image 3">
+                <h3>KoiReader authors world’s 5th largest economy's National Logistics Policy</h3>
+                <p>As founding members of Warehousing Association of India, the Indian subsidiary of KoiReader
+                    Technologies co-authored India’s, which is now world’s 5th largest economy, National Logistics
+                    Policy.</p>
+                <a href="https://koivision.substack.com/p/koireader-authors-worlds-5th-largest">Learn More >></a>
+            </div>
+            <div class="card">
+                <img src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/koivision-powered-by-18-patents.d7671c85.png"
+                    alt="Card Image 4">
+                <h3>KoiX - What else can we innovate together?</h3>
+                <p>The most disruptive product of the logistics and supply chain industry has arrived. While everyone
+                    was busy raising capital to drive up valuations, we’ve been quietly building amazing technology for
+                    a long time and working on value creation in partnership with some of the most amazing industry
+                    leaders. ... </p>
+                <a href="https://koivision.substack.com/p/koivision-powered-by-18-patents">Learn More >></a>
+            </div>
+        </div>
+
+        <div class="line"></div>
+
+        <section>
+            <h2>Recent News and Blogs</h2>
+        </section>
+
+        <div class="news-container">
+            <div class="news">
+                <h4>KoiReader and NVIDIA help PepsiCo achieve precision and efficiency in dynamic distribution
+                    environments</h4>
+                <div class="read-more">
+                    <a href="#">Nvidia</a>
+                </div>
+            </div>
+            <div class="news">
+                <h4>Manufacturing Today Names KoiReader Technologies Among Top AI Startups to Watch in 2023</h4>
+                <div class="read-more">
+                    <a href="#">Manufacturing Today</a>
+                </div>
+            </div>
+
+            <div class="news">
+                <h4>KoiReader presents at Container Shipping Conference on Optimizing the Container Shipping Industry
+                    through Emerging Technologies</h4>
+                <div class="read-more">
+                    <a href="#">Container Shipping Conference 2023</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div>
+
+        </div>
+
+    </div>
+    <footer class="footer">
+        <div class="footer__links">
+            <a class="footer__link" href="https://www.linkedin.com/company/koireader/" target="_blank"
+                title="Follow us on LinkedIn">
+                <img src="LinkedIn-26.svg" alt="LinkedIn">
+                Follow us on LinkedIn
+            </a>
+        </div>
+        <div class="footer__address">
+            <span>© 2022-23 KoiReader Technologies, Inc. All rights reserved.</span>
+            <br>
+            <span>539 W. Commerce St. #1255, Dallas, Texas 75204, USA</span>
+        </div>
+
+        <div class="footer__links">
+            <a class="footer__link" href="{{Unsubscribe}}" rel="nofollow,noreferrer">
+                Unsubscribe
+            </a>
+        </div>
+
+    </footer>
+</body>
+
+</html>

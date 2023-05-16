@@ -1,0 +1,47 @@
+extends ../single_page
+
+block main
+  div(class='container')
+    h1 
+      = 'Cart'
+    hr
+    form(action="/cart/update", method="post")
+      div(class='row')
+        div(class='col-md-12')
+          - var total = 0
+          table(class='table table-striped')
+            thead
+              th Item name
+              th Quantity
+              th Price
+              th
+              tbody
+                each item in cart.items
+                  tr
+                    td
+                      = item.title
+                    td
+                      input(type='number', name='product_quantity_#{item.product_id}', id='product_quantity_#{item.product_id}', value='#{item.quantity}')
+                    td
+                      - total += item.price * item.quantity
+                      = (item.price * item.quantity) / 100
+                      = " USD "
+                    td(align='right')
+                      a(href='/cart/remove/#{item.product_id}')
+                        span(class='btn btn-danger')
+                          span(class='glyphicon glyphicon-trash')
+                tr
+                  td
+                    strong= "Total"
+                  td                
+                  td
+                    = total / 100
+                    = " USD "
+                  td(align='right')               
+                    button(type='submit', value='update', class='btn btn-default') Update
+    if cart.items.length > 0
+      form(action="/cart/checkout", method="post")
+        div(class='row')
+          div(class='col-md-10')
+            button(type='submit', value='checkout', class='btn btn-success') Checkout
+          div(class='col-md-2')

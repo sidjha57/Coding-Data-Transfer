@@ -1,0 +1,1 @@
+{"name":"Local: thanos","url":"d:\\Coding\\ICPC\\thanos.cpp","tests":[{"id":1628946979024,"input":"5\n3\n7 6 7 8 11 3\n2\n1 2 100 3\n2\n1 10 5 5\n2\n1 10 6 6\n2\n1 10 6 5","output":"PERFECT\nIMBALANCED\nIMBALANCED\nIMBALANCED\nPERFECT"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\ICPC\\thanos.cpp","group":"local","local":true}

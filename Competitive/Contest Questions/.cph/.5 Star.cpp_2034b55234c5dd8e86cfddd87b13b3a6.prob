@@ -1,0 +1,1 @@
+{"name":"Local: 5 Star","url":"e:\\Coding\\Contest Questions\\5 Star.cpp","tests":[{"id":1618041573127,"input":"1000 0","output":"200"},{"id":1618041655218,"input":"564 2","output":"110"},{"id":1618041667466,"input":"627 36","output":"89"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Contest Questions\\5 Star.cpp","group":"local","local":true}

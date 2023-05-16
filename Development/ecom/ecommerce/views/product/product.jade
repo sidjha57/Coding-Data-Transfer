@@ -1,0 +1,55 @@
+extends ../site
+
+div(class='container')
+  div(class='row')
+    div(class='col-md-4')
+      block left
+          h4 #{path.root.text == '/' ? '' : path.root.text}
+          ul(class='nav nav-pills nav-stacked')
+            each category in path.categories
+              li(class='nt') 
+                a(href='/index/#{category.name}') #{category.text}
+
+    div(class='col-md-8')
+      block right
+        div(class='row')
+          div(class='col-md-5')
+            img(src='#{product.images.large.url}')
+          div(class='col-md-7')
+            div(class='panel panel-default')
+              div(class='panel-heading') #{product.title}
+              div(class='panel-body')
+                p !{product.description}
+                table(class='table')
+                  tr
+                    td Author
+                    td #{product.author}
+                  tr
+                    td Format
+                    td #{product.format}
+                  tr
+                    td Number of Pages
+                    td #{product.numberofpages}
+                  tr
+                    td Available Inventory
+                    td #{inventory.available}
+                  tr
+                    td Price
+                    td #{(product.price || 0) / 100 } #{product.currency}
+                  tr
+                    td Release Date
+                    td #{moment(product.releasedate).format("MMM Do YYYY")}
+            div(class='panel panel-default')
+              div(class='panel-body') 
+                div(class='row')
+                  div(class='col-md-12')
+                    div(class='form-group #{error ? "has-error": ""}')
+                      if error
+                        label(for='format', class='control-label') #{error ? "(" + error + ")" : ""}
+                form(action="/cart/add", method="post")
+                  div(class='row')
+                    div(class='col-md-6')
+                      input(type='hidden', name='id', id='id', value='#{product._id}')
+                      input(type='number', name='quantity', id='quantity', value='1')
+                    div(class='col-md-6')
+                      button(type='submit', class='btn btn-success') Add To Cart

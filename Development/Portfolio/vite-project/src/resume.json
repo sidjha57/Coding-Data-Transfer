@@ -1,0 +1,128 @@
+{
+    "name": "Siddharth Jha",
+    "contact": {
+      "email": "sidjha57@gmail.com",
+      "linkedin": "sidjha57",
+      "github": "sidjha57",
+      "phone": "9146230624"
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Technology - Electrical Engineering",
+        "school": "Sardar Patel College Of Engineering",
+        "location": "Mumbai, India",
+        "graduation": "June 2023",
+        "cgpa": "8.5/10"
+      }
+    ],
+    "internships": [
+      {
+        "position": "SOFTWARE DEVELOPER",
+        "company": "Innovea Logitech (Early Fintech Startup)",
+        "location": "Remote",
+        "start_date": "January 2023",
+        "end_date": "March 2023",
+        "responsibilities": [
+          "Led dev of Fantasy Stock Market PWA with React, Spring, and Tailwind CSS, delivering functional prototype with CRUD and pagination.",
+          "Developed performant backend with REST API’s and Java, Spring Framework, handling errors and ensuring optimal performance.",
+          "Helped design API Sequence Diagram, LLD, and System Design, creating engaging UI with gamification principles and tech.",
+          "Proactively problem-solved with Hooked and Gamification principles, driving user engagement and recognition as key tech team member."
+        ]
+      },
+      {
+        "position": "SOFTWARE DEVELOPER",
+        "company": "QUOLAM BUSINESS SOLUTIONS",
+        "location": "Remote",
+        "start_date": "August 2022",
+        "end_date": "September 2022",
+        "responsibilities": [
+          "Single-handedly overhauled the Quolam website, providing a 100% end-to-end solution using Headless CMS Strapi.js, a REST API, and a custom-designed PostgreSQL database.",
+          "Demonstrated high effectiveness, completing 97% of all work assigned while working closely with stakeholders, establishing myself as a reliable and effective team member."
+        ]
+      },
+      {
+        "position": "DATA SCIENCE AND ML",
+        "company": "AXIS BANK",
+        "location": "Onsite",
+        "start_date": "June 2022",
+        "end_date": "July 2022",
+        "responsibilities": [
+          "Utilized Google Analytics, SAS, and SQL queries to implement a decision-based model for real-time product pitching that achieved a 60% conversion rate for Term Deposit products.",
+          "Identified and acted on opportunities to replicate the architecture to all products on axis leading to a potential increase in sales by 35%, showcasing my ability to innovate and drive value for the business."
+        ]
+      }
+    ],
+      "projects": [
+        {
+          "name": "FOODIEGO PWA",
+          "githubLink": "https://github.com/sidjha57/FoodieGo-PWA",
+          "deployedLink": "https://sidjha57.github.io/FoodieGo-PWA/",
+          "description": "Built a fully-functional, platform-independent Progressive Web App (PWA) using Vanilla JavaScript, HTML, CSS, and Materialize UI. Utilized cutting-edge web technologies to make the PWA installable, fully responsive, and capable of working offline with cached assets based on static and dynamic data, achieving an average loading time of less than 100 mili seconds and significantly reducing server requests."
+        },
+        {
+          "name": "INTERVIEW EXPERIENCE SHARING WEB APP",
+          "githubLink": "https://github.com/sidjha57/Interview-Experience-Sharing",
+          "description": "Developed Interview Experience Sharing Web App with MySQL, Express.js, React.js, and Node.js. Implemented filtering, searching, sorting, and pagination with MySQL queries for optimal performance. Built secure REST APIs using Express.js, with security features including bcrypt and JSON Web Token. Impacting over 1000 students in their job placement preparation by deploying the app on Amazon Web Services (AWS)."
+        }
+      ],
+      "skills": [
+        "C/C++",
+        "Python",
+        "SQL",
+        "SAS",
+        "JavaScript",
+        "Java",
+        "MongoDb",
+        "Express.js",
+        "React.js",
+        "Node.js - MERN Stack",
+        "Spring Framework",
+        "DataBase Management Systems",
+        "OOPS",
+        "Computer Networks",
+        "Operating Systems (Learning)",
+        "GIT",
+        "GitHub",
+        "MySQL",
+        "Linux",
+        "Windows",
+        "AWS(Learning)"
+      ],
+      "awards": [
+        {
+            "title": "International Collegiate Programming Contest Certificate (ICPC) Pune Gwalior Regionals",
+            "description": "AIR 345 - Aug 2021"
+        },
+        {
+            "title": "IIT Bombay’s Robotics Challenge Eyantra Certificate",
+            "description": "Under Top 50 Over All India - Jan, 2021"
+        },
+        {
+            "title": "VJTI Robotics Challenge Certificate",
+            "description": "Winner - April, 2021"
+        },
+        {
+            "title": "VJTI Ultimate Coder Challenge Certificate",
+            "description": "Second Prize - April, 2021"
+        }
+    ],
+    "codingProfiles": [
+        {
+            "name": "Codechef",
+            "username": "sidjha12",
+            "rating": "5 stars",
+            "rank": "26",
+            "description": "Achieved 26 rank in Codechef long challenge among 18000 participants (Under Top 0.1%)",
+            "link": "https://www.codechef.com/users/sidjha12"
+        },
+        {
+            "name": "Codeforces",
+            "username": "sidjha57",
+            "rating": "Pupil",
+            "rank": "2783",
+            "description": "Attained 2783 rank in Codeforces contest among 40000 participants (Under Top 6%)",
+            "link": "https://codeforces.com/profile/sidjha57"
+        }
+    ]
+}
+      

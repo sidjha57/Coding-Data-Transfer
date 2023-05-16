@@ -1,0 +1,62 @@
+[
+  {
+    "ipid": 1,
+    "contest_type": "indexDaily",
+    "is_active": 1,
+    "contest_offset_start_time": 555,
+    "contest_offset_end_time": 930,
+    "catalog_id": 1,
+    "market_id": 1,
+    "contest_parameter_id": 1
+  },
+  {
+    "ipid": 2,
+    "contest_type": "stockDaily",
+    "is_active": 1,
+    "contest_offset_start_time": 555,
+    "contest_offset_end_time": 930,
+    "catalog_id": 2,
+    "market_id": 1,
+    "contest_parameter_id": 1
+  },
+  {
+    "ipid": 3,
+    "contest_type": "indexIntradayA",
+    "is_active": 1,
+    "contest_offset_start_time": 600,
+    "contest_offset_end_time": 720,
+    "catalog_id": 1,
+    "market_id": 1,
+    "contest_parameter_id": 3
+  },
+  {
+    "ipid": 4,
+    "contest_type": "indexIntradayB",
+    "is_active": 1,
+    "contest_offset_start_time": 780,
+    "contest_offset_end_time": 900,
+    "catalog_id": 1,
+    "market_id": 1,
+    "contest_parameter_id": 3
+  },
+  {
+    "ipid": 5,
+    "contest_type": "stockIntradayA",
+    "is_active": 1,
+    "contest_offset_start_time": 600,
+    "contest_offset_end_time": 720,
+    "catalog_id": 2,
+    "market_id": 1,
+    "contest_parameter_id": 3
+  },
+  {
+    "ipid": 6,
+    "contest_type": "stockIntradayB",
+    "is_active": 1,
+    "contest_offset_start_time": 780,
+    "contest_offset_end_time": 900,
+    "catalog_id": 2,
+    "market_id": 1,
+    "contest_parameter_id": 3
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ipid": 1,
+    "instrument_id": 1,
+    "updated_time_stamp": "2023-03-10 10:00:00",
+    "instrument_price": 17500
+  },
+  {
+    "ipid": 2,
+    "instrument_id": 4,
+    "updated_time_stamp": "2023-03-10 10:00:00",
+    "instrument_price": 42000
+  }
+]

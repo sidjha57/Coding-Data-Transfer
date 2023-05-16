@@ -1,0 +1,274 @@
+[
+  {
+    "ipid": 1,
+    "catalog_id": 1,
+    "is_active": 1,
+    "instrument_name": "NIFTY 50",
+    "instrument_symbol": "NIFTY 50",
+    "instrument_unique_id": 256265
+  },
+  {
+    "ipid": 2,
+    "catalog_id": 1,
+    "is_active": 1,
+    "instrument_name": "NIFTY 500",
+    "instrument_symbol": "NIFTY 500",
+    "instrument_unique_id": 268041
+  },
+  {
+    "ipid": 3,
+    "catalog_id": 1,
+    "is_active": 1,
+    "instrument_name": "NIFTY AUTO",
+    "instrument_symbol": "NIFTY AUTO",
+    "instrument_unique_id": 263433
+  },
+  {
+    "ipid": 4,
+    "catalog_id": 1,
+    "is_active": 1,
+    "instrument_name": "NIFTY BANK",
+    "instrument_symbol": "NIFTY BANK",
+    "instrument_unique_id": 260105
+  },
+  {
+    "ipid": 5,
+    "catalog_id": 1,
+    "is_active": 0,
+    "instrument_name": "NIFTY COMMODITIES",
+    "instrument_symbol": "NIFTY COMMODITIES",
+    "instrument_unique_id": 257289
+  },
+  {
+    "ipid": 6,
+    "catalog_id": 1,
+    "is_active": 0,
+    "instrument_name": "NIFTY ENERGY",
+    "instrument_symbol": "NIFTY ENERGY",
+    "instrument_unique_id": 261641
+  },
+  {
+    "ipid": 7,
+    "catalog_id": 1,
+    "is_active": 1,
+    "instrument_name": "NIFTY FMCG",
+    "instrument_symbol": "NIFTY FMCG",
+    "instrument_unique_id": 261897
+  },
+  {
+    "ipid": 8,
+    "catalog_id": 1,
+    "is_active": 0,
+    "instrument_name": "NIFTY IND DIGITAL",
+    "instrument_symbol": "NIFTY IND DIGITAL",
+    "instrument_unique_id": 291337
+  },
+  {
+    "ipid": 9,
+    "catalog_id": 1,
+    "is_active": 1,
+    "instrument_name": "NIFTY INFRA",
+    "instrument_symbol": "NIFTY INFRA",
+    "instrument_unique_id": 261385
+  },
+  {
+    "ipid": 10,
+    "catalog_id": 1,
+    "is_active": 1,
+    "instrument_name": "NIFTY IT",
+    "instrument_symbol": "NIFTY IT",
+    "instrument_unique_id": 259849
+  },
+  {
+    "ipid": 11,
+    "catalog_id": 1,
+    "is_active": 0,
+    "instrument_name": "NIFTY MEDIA",
+    "instrument_symbol": "NIFTY MEDIA",
+    "instrument_unique_id": 263945
+  },
+  {
+    "ipid": 12,
+    "catalog_id": 1,
+    "is_active": 1,
+    "instrument_name": "NIFTY METAL",
+    "instrument_symbol": "NIFTY METAL",
+    "instrument_unique_id": 263689
+  },
+  {
+    "ipid": 13,
+    "catalog_id": 1,
+    "is_active": 0,
+    "instrument_name": "NIFTY MIDCAP 50",
+    "instrument_symbol": "NIFTY MIDCAP 50",
+    "instrument_unique_id": 260873
+  },
+  {
+    "ipid": 14,
+    "catalog_id": 1,
+    "is_active": 0,
+    "instrument_name": "NIFTY OIL AND GAS",
+    "instrument_symbol": "NIFTY OIL AND GAS",
+    "instrument_unique_id": 289033
+  },
+  {
+    "ipid": 15,
+    "catalog_id": 1,
+    "is_active": 0,
+    "instrument_name": "NIFTY PHARMA",
+    "instrument_symbol": "NIFTY PHARMA",
+    "instrument_unique_id": 262409
+  },
+  {
+    "ipid": 16,
+    "catalog_id": 1,
+    "is_active": 1,
+    "instrument_name": "NIFTY REALTY",
+    "instrument_symbol": "NIFTY REALTY",
+    "instrument_unique_id": 261129
+  },
+  {
+    "ipid": 17,
+    "catalog_id": 1,
+    "is_active": 1,
+    "instrument_name": "NIFTY SMLCAP 50",
+    "instrument_symbol": "NIFTY SMLCAP 50",
+    "instrument_unique_id": 266761
+  },
+  {
+    "ipid": 18,
+    "catalog_id": 2,
+    "is_active": 1,
+    "instrument_name": "ADANI ENTERPRISES",
+    "instrument_symbol": "ADANIENT",
+    "instrument_unique_id": 6401
+  },
+  {
+    "ipid": 19,
+    "catalog_id": 2,
+    "is_active": 0,
+    "instrument_name": "ADANI GREEN ENERGY",
+    "instrument_symbol": "ADANIGREEN",
+    "instrument_unique_id": 912129
+  },
+  {
+    "ipid": 20,
+    "catalog_id": 2,
+    "is_active": 0,
+    "instrument_name": "ADANI PORT & SEZ",
+    "instrument_symbol": "ADANIPORTS",
+    "instrument_unique_id": 3861249
+  },
+  {
+    "ipid": 21,
+    "catalog_id": 2,
+    "is_active": 0,
+    "instrument_name": "ADANI POWER",
+    "instrument_symbol": "ADANIPOWER",
+    "instrument_unique_id": 4451329
+  },
+  {
+    "ipid": 22,
+    "catalog_id": 2,
+    "is_active": 0,
+    "instrument_name": "ADANI TRANSMISSION",
+    "instrument_symbol": "ADANITRANS",
+    "instrument_unique_id": 2615553
+  },
+  {
+    "ipid": 23,
+    "catalog_id": 2,
+    "is_active": 1,
+    "instrument_name": "ASIAN PAINTS",
+    "instrument_symbol": "ASIANPAINT",
+    "instrument_unique_id": 60417
+  },
+  {
+    "ipid": 24,
+    "catalog_id": 2,
+    "is_active": 0,
+    "instrument_name": "AU SMALL FINANCE BANK",
+    "instrument_symbol": "AUBANK",
+    "instrument_unique_id": 5436929
+  },
+  {
+    "ipid": 25,
+    "catalog_id": 2,
+    "is_active": 0,
+    "instrument_name": "AXIS BANK",
+    "instrument_symbol": "AXISBANK",
+    "instrument_unique_id": 1510401
+  },
+  {
+    "ipid": 26,
+    "catalog_id": 2,
+    "is_active": 0,
+    "instrument_name": "BANK OF BARODA",
+    "instrument_symbol": "BANKBARODA",
+    "instrument_unique_id": 1195009
+  },
+  {
+    "ipid": 27,
+    "catalog_id": 2,
+    "is_active": 1,
+    "instrument_name": "HDFC",
+    "instrument_symbol": "HDFC",
+    "instrument_unique_id": 340481
+  },
+  {
+    "ipid": 28,
+    "catalog_id": 2,
+    "is_active": 1,
+    "instrument_name": "HDFC BANK",
+    "instrument_symbol": "HDFCBANK",
+    "instrument_unique_id": 341249
+  },
+  {
+    "ipid": 29,
+    "catalog_id": 2,
+    "is_active": 1,
+    "instrument_name": "INFOSYS",
+    "instrument_symbol": "INFY",
+    "instrument_unique_id": 408065
+  },
+  {
+    "ipid": 30,
+    "catalog_id": 2,
+    "is_active": 1,
+    "instrument_name": "ITC",
+    "instrument_symbol": "ITC",
+    "instrument_unique_id": 424961
+  },
+  {
+    "ipid": 31,
+    "catalog_id": 2,
+    "is_active": 1,
+    "instrument_name": "LARSEN & TOUBRO.",
+    "instrument_symbol": "LT",
+    "instrument_unique_id": 2939649
+  },
+  {
+    "ipid": 32,
+    "catalog_id": 2,
+    "is_active": 1,
+    "instrument_name": "RELIANCE INDUSTRIES",
+    "instrument_symbol": "RELIANCE",
+    "instrument_unique_id": 738561
+  },
+  {
+    "ipid": 33,
+    "catalog_id": 2,
+    "is_active": 1,
+    "instrument_name": "TATA MOTORS",
+    "instrument_symbol": "TATAMOTORS",
+    "instrument_unique_id": 884737
+  },
+  {
+    "ipid": 34,
+    "catalog_id": 2,
+    "is_active": 1,
+    "instrument_name": "TATA CONSULTANCY SERV LT",
+    "instrument_symbol": "TCS",
+    "instrument_unique_id": 2953217
+  }
+]

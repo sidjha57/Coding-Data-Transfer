@@ -1,0 +1,177 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text color="black" line-height="1.5" font-size="16px" />
+      <mj-section padding="0" />
+      <mj-button inner-padding="6px 25px" />
+      <mj-all font-family="Helvetica" />
+    </mj-attributes>
+    <mj-style>
+    	.links a {
+      	color: #0066cc;
+      }
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body width="600px">
+
+    <mj-section>
+      <mj-column padding="0px">
+        <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/intelligent-label.png" padding="0px">
+
+        </mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="0 2px">
+
+      <mj-section>
+        <mj-column>
+
+          <mj-text>
+            Dear {{Recipient.FirstName}},
+          </mj-text>
+          <mj-text>
+
+            <p>
+              Yes, you heard it right. Introducing <b>
+                KoiScan – Industry’s Leading Intelligent Label Scanning Application </b> that improves scanning accuracy to nearly 100% from SKU to pallet level across your supply chain network.
+            </p>
+            <p>
+              Powered by the <b> KoiVision<sup>TM</sup> platform </b> and our proprietary <b>AutonomousOCR<sup>®</sup> technology</b>, it enables the Smart Warehouse of The Future.
+            </p>
+            <p>
+              KoiScan<sup>TM</sup> can accurately read complex barcode labels such as <b> Damaged</b>, <b>Overlapping</b>, <b>Distorted</b>,<b> Faded</b>,<b> Folded</b>, etc. during conveyor belt and dock door dispatch and receiving operations.
+            </p>
+            <p>
+              With <b>KoiReader’s Smart Warehouse of The Future solution suite</b>, organizations have realized benefits including:
+            <ul>
+              <li>
+                Improved label scanning accuracy from 75% to near 100%, ensuring accurate inventory movement.
+              </li>
+              <li>
+                Reduced manual interactions across the supply chain network, leading to a reduction of 2 to 8 FTEs per shift from conveyor belts to dock doors.
+              </li>
+              <li>
+                Unlocked millions in value by improving efficiency and accuracy in a range of 5% to 25% across operations. </li>
+            </ul>
+
+            </p>
+            <p>
+              Our solution suite can integrate with WMS, ERP, and inventory control systems, ensuring a smooth integration process.
+            </p>
+            <p>
+              Additionally, it offers real-time inventory visibility and human activity tracking, enabling you to track your inventory and optimize your supply chain operations.
+            </p>
+            <p>
+              To learn more about KoiScan<sup>TM</sup> and watch our offering in action, please click here:
+            </p>
+          </mj-text>
+
+          <mj-text css-class="links" color="#0066cc" text-transform="none" padding-top="0px">
+            <a href="https://www.koireader.com/koivision/smart-warehouse">
+              Smart Warehouse of Future Solution Suite
+            </a>
+          </mj-text>
+
+          <mj-text css-class="links">
+            <p>
+
+
+              KoiReader is working with global partners such as <b> Ernst & Young, Nvidia, and Intel </b> to deliver efficiency and accuracy previously unseen in the industry.
+            </p>
+
+
+            <p>
+              To register interest, please:
+
+            <ul>
+              <li>
+                Send us an email at
+                <a href="mailto:sales@koireader.com">
+                  sales@koireader.com </a>, or
+              </li>
+              <li>
+                Book a meeting by following:
+                <a href="https://calendly.com/koireader">
+                  www.calendly.com/koireader </a>
+
+              </li>
+
+            </ul>
+
+            </p>
+
+          </mj-text>
+
+          <mj-text>
+
+            <p>
+
+              Sincerely,
+            </p>
+
+          </mj-text>
+          <mj-text padding-bottom="0px">
+            The KoiReader Team
+          </mj-text>
+
+          <mj-text css-class="links" text-transform="none" padding-top="0px">
+            <a href="https://www.koireader.com">
+              www.koireader.com
+            </a>
+          </mj-text>
+
+        </mj-column>
+
+      </mj-section>
+
+    </mj-wrapper>
+
+
+    <!-- Footer -->
+    <mj-wrapper background-color="#F2F7F9">
+
+
+
+      <!-- Footer -->
+      <mj-section padding="0 10px 0 50px">
+        <mj-group>
+          <mj-column vertical-align="middle">
+            <mj-text padding="0px" align="right" font-size="12px">
+              Follow us:
+            </mj-text>
+          </mj-column>
+          <mj-column vertical-align="middle">
+            <mj-social align="left" font-size="12px" icon-size="20px" mode="horizontal" padding="3px">
+              <mj-social-element name="linkedin" href="https://www.linkedin.com/company/koireader/">
+
+              </mj-social-element>
+            </mj-social>
+          </mj-column>
+        </mj-group>
+
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="black" font-size="12px" align="center" padding="3px 20px 3px 20px">
+            © 2019-23 KoiReader Technologies, Inc. All rights reserved
+            <br />
+            539 W.Commerce St. #1255, Dallas, Texas 75204, USA
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="#737E82" font-size="10px" align="center" padding="3px" text-decoration="underline"><a href="{{Unsubscribe}}"></a>Unsubscribe</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+  </mj-body>
+</mjml>

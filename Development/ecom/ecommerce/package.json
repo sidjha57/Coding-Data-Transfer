@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce",
+  "description": "A sample E-Commerce application",
+  "author" : "Christian Amor Kvalheim <christkv@gmail.com>",
+  "version": "0.0.1",
+  "private": true,
+  "repository": { 
+    "type" :  "git", 
+    "url" :   "https://github.com/christkv/ecommerce" 
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~3.0",
+    "jade": "~1.0",
+    "mongodb": "~2.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "latest",
+    "apac": "latest",
+    "moment": "latest"
+  }
+}

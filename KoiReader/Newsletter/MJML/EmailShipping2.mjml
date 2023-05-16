@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text color="black" line-height="1.5" font-size="16px" />
+      <mj-section padding="0" />
+      <mj-button inner-padding="6px 25px" />
+      <mj-all font-family="Helvetica" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body width="600px">
+
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0px" src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/email.jpg">
+
+        </mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="0 2px">
+
+      <mj-section>
+        <mj-column>
+
+          <mj-text>
+            Dear {{Recipient.FirstName}},
+          </mj-text>
+          <mj-text>
+            <p>
+
+              KoiReader is excited to announce that our Founder & CEO, Ash, will be speaking at the Container Shipping Conference 2023 on May 30th and 31st. Join us to explore the latest trends and innovations in the container, transport, and logistics industry alongside leading experts, 3PLs, freight forwarders, shippers, carriers, government officials, port officials, transportation, and logistics providers.
+            </p>
+            <p>
+              During the conference, Ash will speak on "Optimizing the Container Shipping Industry through Emerging Technologies," covering topics such as Edge Computing, IoT, digitalizing the ecosystem, and the digital twin of ports.
+            </p>
+            <p>
+              To learn how KoiReader's innovative solutions can help streamline and optimize operations, we invite you to register for the event by clicking on the following link:
+            </p>
+
+
+          </mj-text>
+
+          <mj-text href="https://container-shipping-conference.com/register-now/" color="#0066cc" text-transform="none" padding-top="0px">
+            https://container-shipping-conference.com/register-now/
+          </mj-text>
+
+          <mj-text>
+
+            We look forward to meeting you at the event.
+          </mj-text>
+
+          <mj-text>
+
+            <p>
+
+              Sincerely,
+            </p>
+
+          </mj-text>
+          <mj-text padding-bottom="0px">
+            The KoiReader Team
+          </mj-text>
+
+          <mj-text href="https://www.koireader.com" color="#0066cc" text-transform="none" padding-top="0px">
+            www.koireader.com </mj-text>
+
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+    <mj-wrapper background-color="#EAF0F4">
+
+
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column>
+          <mj-social font-size="12px" icon-size="20px" mode="horizontal" padding="3px">
+            <mj-social-element name="linkedin" href="https://www.linkedin.com/company/koireader/">
+              Follow us
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="black" font-size="12px" align="center" padding="3px">
+            © 2022-23 KoiReader Technologies, Inc. All rights reserved.
+            <br />
+            539 W.Commerce St. #1255, Dallas, Texas 75204, USA
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="black" font-size="14px" align="center" padding="3px" text-decoration="underline"><a href="{{Unsubscribe}}"></a>Unsubscribe</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+
+  </mj-body>
+</mjml>

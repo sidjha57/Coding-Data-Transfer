@@ -1,0 +1,27 @@
+[
+  {
+    "ipid": 1,
+    "market_config_id": 1,
+    "session_date_time": "2023-03-10 00:00:00"
+  },
+  {
+    "ipid": 2,
+    "market_config_id": 1,
+    "session_date_time": "2023-03-13 00:00:00"
+  },
+  {
+    "ipid": 3,
+    "market_config_id": 1,
+    "session_date_time": "2023-03-14 00:00:00"
+  },
+  {
+    "ipid": 4,
+    "market_config_id": 1,
+    "session_date_time": "2023-03-15 00:00:00"
+  },
+  {
+    "ipid": 5,
+    "market_config_id": 1,
+    "session_date_time": "2023-03-16 00:00:00"
+  }
+]

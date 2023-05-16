@@ -1,0 +1,133 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text color="black" line-height="1.5" font-size="16px" />
+      <mj-section padding="0" />
+      <mj-button inner-padding="6px 25px" />
+      <mj-all font-family="Helvetica" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body  width="600px">
+
+    <mj-section>
+      <mj-column padding="0px">
+        <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/email.jpg" padding="0px">
+
+        </mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="0 2px">
+
+      <mj-section>
+        <mj-column>
+
+          <mj-text>
+            Dear {{Recipient.FirstName}},
+          </mj-text>
+          <mj-text>
+
+            <p>
+              KoiReader Technologies, Inc. is excited to announce that our Founder & CEO, Ash, will be speaking at the Container Shipping Conference 2023 on May 30th and 31st. Join us to explore the latest trends and innovations in the container, transport, and logistics industry alongside leading experts, 3PLs, freight forwarders, shippers, carriers, government officials, port officials, transportation, and logistics providers.
+            </p>
+            <p>
+
+              During the conference, Ash will discuss some of the most pressing issues faced by the container shipping industry today and how KoiReader's innovative solutions can help streamline and optimize operations. The topics that will be covered in his presentation include:
+            <ul>
+              <li>
+                Exploring the benefits of Edge Computing and IoT in Supply Chain & Ports
+              </li>
+              <li>
+                Streamlining Container Operations at the Ports through Digitalizing the Ecosystem
+              </li>
+              <li>
+                Examining the Impact of Digitalization on the Container Service Industry
+              </li>
+              <li>
+                Reducing Trade Friction and Increasing Operational Visibility through the Digital Twin of the Ports
+              </li>
+            </ul>
+
+            </p>
+            <p>
+              We invite you to register for the event by clicking on the following link:
+
+            </p>
+          </mj-text>
+
+          <mj-text color="#0066cc" text-transform="none" padding-top="0px">
+            <a href="https://container-shipping-conference.com/register-now/">
+              https://container-shipping-conference.com/register-now/
+
+            </a>
+          </mj-text>
+
+          <mj-text>
+
+            Our team looks forward to meeting you and sharing our expertise.
+          </mj-text>
+
+          <mj-text>
+
+            <p>
+
+              Sincerely,
+            </p>
+
+          </mj-text>
+          <mj-text padding-bottom="0px">
+            The KoiReader Team
+          </mj-text>
+
+          <mj-text color="#0066cc" text-transform="none" padding-top="0px">
+            <a href="https://www.koireader.com">
+              www.koireader.com
+            </a>
+          </mj-text>
+
+        </mj-column>
+
+      </mj-section>
+
+    </mj-wrapper>
+
+
+    <!-- Footer -->
+    <mj-wrapper background-color="#EAF0F4">
+
+
+
+      <!-- Footer -->
+      <mj-section>
+        <mj-column>
+          <mj-social font-size="12px" icon-size="20px" mode="horizontal" padding="3px">
+            <mj-social-element name="linkedin" href="https://www.linkedin.com/company/koireader/">
+              Follow us
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="black" font-size="12px" align="center" padding="3px">
+            © 2022-23 KoiReader Technologies, Inc. All rights reserved.
+            <br />
+            539 W.Commerce St. #1255, Dallas, Texas 75204, USA
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="black" font-size="14px" align="center" padding="3px" text-decoration="underline"><a href="{{Unsubscribe}}"></a>Unsubscribe</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+  </mj-body>
+</mjml>

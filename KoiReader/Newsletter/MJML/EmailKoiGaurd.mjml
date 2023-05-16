@@ -1,0 +1,171 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text color="black" line-height="1.5" font-size="16px" />
+      <mj-section padding="0" />
+      <mj-button inner-padding="6px 25px" />
+      <mj-all font-family="Helvetica" />
+    </mj-attributes>
+    <mj-style>
+      .links a {
+      color: #0066cc;
+      }
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body width="600px">
+
+    <mj-section>
+      <mj-column padding="0px">
+        <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/smart-yard.png" padding="0px">
+
+        </mj-image>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="0 2px">
+
+      <mj-section>
+        <mj-column>
+
+          <mj-text>
+            Dear {{Recipient.FirstName}},
+          </mj-text>
+          <mj-text>
+
+            <p>
+              Introducing <b>KoiGuard - Vision AI-powered Gate Automation Solution</b> to streamline your supply chain operations and boost its accuracy and efficiency previously unseen in the industry.
+            </p>
+            <p>
+              As a part <b>KoiVision-powered Smart Yard Solution suite</b>, KoiGuard unleashes the full power of AI and edge computing to deliver:
+            <ul>
+              <li>
+                Autonomous Capture of Tractor and Trailer Attributes for Efficient Tracking and Monitoring of Shipments
+              </li>
+              <li>
+                Geofence-Based Integration with Shipment Data for Seamless Gate Operations
+              </li>
+              <li>
+                AI-Powered Smart Kiosk for Driver Experience Management to Reduce Long Waiting Times
+              </li>
+              <li>
+                Digital Audit Trail for Dwell Time and Detention Management o Increase Efficiency
+              </li>
+            </ul>
+
+            </p>
+            <p>
+              Would you like to learn more about how KoiGuard can improve your gate automation and streamline your supply chain operations?
+            </p>
+
+            <p>
+              Please find below the link to see KoiGuard and our Smart Yard offering in action: </p>
+          </mj-text>
+
+          <mj-text css-class="links" color="#0066cc" text-transform="none" padding-top="0px">
+            <a href="https://www.koireader.com/koivision/smart-yard">
+              Smart Yard of Future - Solution Suite
+            </a>
+          </mj-text>
+
+          <mj-text css-class="links">
+            <p>
+
+
+              KoiReader is working with global partners such as <b> Ernst & Young, Nvidia, and Intel </b> to deliver efficiency and accuracy previously unseen in the industry.
+            </p>
+
+
+            <p>
+              To register interest, please:
+
+            <ul>
+              <li>
+                Send us an email at
+                <a href="mailto:sales@koireader.com">
+                  sales@koireader.com </a>, or
+              </li>
+              <li>
+                Book a meeting by following:
+                <a href="https://calendly.com/koireader">
+                  www.calendly.com/koireader </a>
+
+              </li>
+
+            </ul>
+
+            </p>
+
+          </mj-text>
+
+          <mj-text>
+
+            <p>
+
+              Sincerely,
+            </p>
+
+          </mj-text>
+          <mj-text padding-bottom="0px">
+            The KoiReader Team
+          </mj-text>
+
+          <mj-text css-class="links" text-transform="none" padding-top="0px">
+            <a href="https://www.koireader.com">
+              www.koireader.com
+            </a>
+          </mj-text>
+
+        </mj-column>
+
+      </mj-section>
+
+    </mj-wrapper>
+
+
+    <!-- Footer -->
+    <mj-wrapper background-color="#F2F7F9">
+
+
+
+      <!-- Footer -->
+      <mj-section padding="0 10px 0 50px">
+        <mj-group>
+          <mj-column vertical-align="middle">
+            <mj-text padding="0px" align="right" font-size="12px">
+              Follow us:
+            </mj-text>
+          </mj-column>
+          <mj-column vertical-align="middle">
+            <mj-social align="left" font-size="12px" icon-size="20px" mode="horizontal" padding="3px">
+              <mj-social-element name="linkedin" href="https://www.linkedin.com/company/koireader/">
+
+              </mj-social-element>
+            </mj-social>
+          </mj-column>
+        </mj-group>
+
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="black" font-size="12px" align="center" padding="3px 20px 3px 20px">
+            © 2019-23 KoiReader Technologies, Inc. All rights reserved
+            <br />
+            539 W.Commerce St. #1255, Dallas, Texas 75204, USA
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="#737E82" font-size="10px" align="center" padding="3px" text-decoration="underline"><a href="{{Unsubscribe}}"></a>Unsubscribe</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+  </mj-body>
+</mjml>

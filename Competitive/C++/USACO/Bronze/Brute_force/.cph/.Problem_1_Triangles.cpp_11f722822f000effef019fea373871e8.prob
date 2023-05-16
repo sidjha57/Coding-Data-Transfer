@@ -1,0 +1,1 @@
+{"name":"Local: Problem_1_Triangles","url":"/home/siddharth/Coding/C++/USACO/Bronze/Brute_force/Problem_1_Triangles.cpp","tests":[{"id":1641040243313,"input":"4\n0 0\n0 1\n1 0\n1 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/siddharth/Coding/C++/USACO/Bronze/Brute_force/Problem_1_Triangles.cpp","group":"local","local":true}

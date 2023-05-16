@@ -1,0 +1,6 @@
+If x and y are friends y and z are friends then x and y are also friends.
+A list of friends is given. Answer the following quries.
+
+1 x y — x and y start haiting each other;
+2 x y — check whether friendship exists between x and y.
+After all the operations are applied, there wont be any friendship among any person. Please, find the result of each operation of type ask.

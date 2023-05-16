@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.root,
+#root,
+#docs-root {
+  --primary-color: #002485;
+  --dark-background: #dfe1f9;
+  --light-background: #F2F0F4;
+  --background: #f4f5f4;
+  --light-text: #77767A;
+  --dark-text: #5e5f63;
+}
+
+@font-face {
+  font-family: 'Satoshi-Variable';
+  src: url('assets/Satoshi-Variable.woff2') format('woff2');
+       font-weight: 300 900;
+       font-display: swap;
+       font-style: normal;
+}

@@ -1,0 +1,1 @@
+{"name":"Local: Arrange_2","url":"e:\\Coding\\Contest Questions\\Arrange_2.cpp","tests":[{"id":1618049535482,"input":"98 Ajay\n99 Mansi\n100 Tara","output":"100 Tara\n99 Mansi\n98 Ajay"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Contest Questions\\Arrange_2.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Sholay","url":"e:\\Coding\\Contest Questions\\Sholay.cpp","tests":[{"id":1618042705835,"input":"987 4","output":"246"},{"id":1618042723163,"input":"0 1000","output":"0"},{"id":1618042730991,"input":"1000 0","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\Contest Questions\\Sholay.cpp","group":"local","local":true}

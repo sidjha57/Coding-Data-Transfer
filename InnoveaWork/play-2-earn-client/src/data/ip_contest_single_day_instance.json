@@ -1,0 +1,62 @@
+[
+  {
+    "ipid": 1,
+    "contest_type_config_id": 1,
+    "market_instance_id": 1
+  },
+  {
+    "ipid": 2,
+    "contest_type_config_id": 2,
+    "market_instance_id": 1
+  },
+  {
+    "ipid": 3,
+    "contest_type_config_id": 3,
+    "market_instance_id": 1
+  },
+  {
+    "ipid": 4,
+    "contest_type_config_id": 4,
+    "market_instance_id": 1
+  },
+  {
+    "ipid": 5,
+    "contest_type_config_id": 5,
+    "market_instance_id": 1
+  },
+  {
+    "ipid": 6,
+    "contest_type_config_id": 6,
+    "market_instance_id": 1
+  },
+  {
+    "ipid": 7,
+    "contest_type_config_id": 1,
+    "market_instance_id": 2
+  },
+  {
+    "ipid": 8,
+    "contest_type_config_id": 2,
+    "market_instance_id": 2
+  },
+  {
+    "ipid": 9,
+    "contest_type_config_id": 3,
+    "market_instance_id": 2
+  },
+  {
+    "ipid": 10,
+    "contest_type_config_id": 4,
+    "market_instance_id": 2
+  },
+  {
+    "ipid": 11,
+    "contest_type_config_id": 5,
+    "market_instance_id": 2
+  },
+  {
+    "ipid": 12,
+    "contest_type_config_id": 6,
+    "market_instance_id": 2
+  }
+]

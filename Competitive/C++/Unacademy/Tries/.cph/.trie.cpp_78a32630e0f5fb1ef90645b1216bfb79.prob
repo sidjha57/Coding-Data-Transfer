@@ -1,0 +1,1 @@
+{"name":"Local: trie","url":"e:\\Coding\\C++\\Unacademy\\Tries\\trie.cpp","tests":[{"id":1625585521845,"input":"8\nSiddharth\nShyam\nAbha\nSarda\nSam\nSid\nSayad\nSushil\n2\nSushil\nAnand\n3\nSa\nA\nZ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Coding\\C++\\Unacademy\\Tries\\trie.cpp","group":"local","local":true}

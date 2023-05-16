@@ -1,0 +1,17 @@
+{
+  "name": "p7_hover_focus_other_states",
+  "version": "1.0.0",
+  "description": "Learn Hover Focus and other states",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "Siddharth",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.1.1"
+  }
+}

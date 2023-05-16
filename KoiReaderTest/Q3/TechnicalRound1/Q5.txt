@@ -1,0 +1,11 @@
+Table User and Emails one to many relationship 
+ 
+Find the user of the specific email id 
+
+User => id, Username
+Emails => id, user_id, email
+
+Select User.id, User.email from User
+Inner Join Emails on
+User.id = Emails.user_id
+Where Emails.email = "example@gmail.com"

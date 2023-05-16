@@ -1,0 +1,421 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text color="white" />
+      <mj-section padding="0" />
+      <mj-all font-family="Helvetica Neue" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+
+    <mj-raw>
+      <!-- Header Image -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-image padding="0" src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/header-dark.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Date  -->
+    </mj-raw>
+    <mj-section background-color="#031D3D">
+      <mj-column>
+        <mj-text>
+          Apr-17-2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Main Article  -->
+    </mj-raw>
+    <mj-section background-color="#090F1E">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold">
+          PepsiCo Leads in AI-Powered Automation With KoiVision Platform
+        </mj-text>
+        <mj-image src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd83d0414-4e52-4dfb-b628-16945d687ac3_4445x2334.png">
+        </mj-image>
+        <mj-text color="white" font-size="16px">
+          Global leader in convenient foods and beverages PepsiCo is
+          deploying advanced machine vision technology from startup
+          KoiReader Technologies, an NVIDIA Metropolis partner, to
+          improve efficiency and accuracy in its distribution process.
+        </mj-text>
+
+        <mj-button background-color="#006AC1" href="https://koivision.substack.com/p/pepsico-leads-in-ai-powered-automation">
+          Learn More
+        </mj-button>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Cards  -->
+    </mj-raw>
+    <mj-wrapper background-color="#002642">
+      <!-- Latest Highlights  -->
+
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" font-size="20px" font-weight="bold">
+            Latest Highlights
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Latest Highlights  -->
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="white" align="left" font-size="18px" font-weight="bold">
+            Smart Warehouse
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!--
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+      -->
+
+      <mj-section>
+        <mj-column inner-background-color="#033663" padding="20px">
+          <mj-image padding="10px" src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/so-what-if-amazon-announced-it-wants.e9a60ff4.png"></mj-image>
+          <mj-text padding="10px" font-size="16px">Part 1 of 4. So what if Amazon wants to kill the barcode?</mj-text>
+          <mj-text padding="10px" font-size="14px">Dissecting hype versus reality of this announcement...</mj-text>
+          <mj-button background-color="#006AC1" href="https://koivision.substack.com/p/so-what-if-amazon-announced-it-wants">Learn More</mj-button>
+        </mj-column>
+
+
+
+
+
+        <mj-column inner-background-color="#033663" padding="20px">
+
+          <mj-image padding="10px" src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/so-what-if-amazon-announced-it-wants.e9a60ff4.png"></mj-image>
+          <mj-text padding="10px" font-size="16px">Part 1 of 4. So what if Amazon wants to kill the barcode?</mj-text>
+          <mj-text padding="10px" font-size="14px">Dissecting hype versus reality of this announcement...</mj-text>
+          <mj-button background-color="#006AC1" href="https://koivision.substack.com/p/so-what-if-amazon-announced-it-wants">Learn More</mj-button>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="white" align="left" font-size="18px" font-weight="bold">
+            Smart Factory
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column inner-background-color="#033663" padding="20px">
+          <mj-image padding="10px" src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/so-what-if-amazon-announced-it-wants.e9a60ff4.png"></mj-image>
+          <mj-text padding="10px" font-size="16px">Part 1 of 4. So what if Amazon wants to kill the barcode?</mj-text>
+          <mj-text padding="10px" font-size="14px">Dissecting hype versus reality of this announcement...</mj-text>
+          <mj-button background-color="#006AC1" href="https://koivision.substack.com/p/so-what-if-amazon-announced-it-wants">Learn More</mj-button>
+        </mj-column>
+
+
+
+
+
+        <mj-column inner-background-color="#033663" padding="20px">
+
+          <mj-image padding="10px" src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/so-what-if-amazon-announced-it-wants.e9a60ff4.png"></mj-image>
+          <mj-text padding="10px" font-size="16px">Part 1 of 4. So what if Amazon wants to kill the barcode?</mj-text>
+          <mj-text padding="10px" font-size="14px">Dissecting hype versus reality of this announcement...</mj-text>
+          <mj-button background-color="#006AC1" href="https://koivision.substack.com/p/so-what-if-amazon-announced-it-wants">Learn More</mj-button>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column>
+          <mj-text color="white" align="left" font-size="18px" font-weight="bold">
+            Smart Yard
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column inner-background-color="#033663" padding="20px">
+          <mj-image padding="10px" src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/so-what-if-amazon-announced-it-wants.e9a60ff4.png"></mj-image>
+          <mj-text padding="10px" font-size="16px">Part 1 of 4. So what if Amazon wants to kill the barcode?</mj-text>
+          <mj-text padding="10px" font-size="14px">Dissecting hype versus reality of this announcement...</mj-text>
+          <mj-button background-color="#006AC1" href="https://koivision.substack.com/p/so-what-if-amazon-announced-it-wants">Learn More</mj-button>
+        </mj-column>
+
+
+
+
+
+        <mj-column inner-background-color="#033663" padding="20px">
+
+          <mj-image padding="10px" src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/so-what-if-amazon-announced-it-wants.e9a60ff4.png"></mj-image>
+          <mj-text padding="10px" font-size="16px">Part 1 of 4. So what if Amazon wants to kill the barcode?</mj-text>
+          <mj-text padding="10px" font-size="14px">Dissecting hype versus reality of this announcement...</mj-text>
+          <mj-button background-color="#006AC1" href="https://koivision.substack.com/p/so-what-if-amazon-announced-it-wants">Learn More</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Card1 
+
+      <mj-section background-color="#033663" padding-bottom="0px" padding-top="0">
+        <mj-column>
+          <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/so-what-if-amazon-announced-it-wants.e9a60ff4.png" alt="Man 1" width="301px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-text align="left" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+            <p style="font-size: 19px;">Part 1 of 4. So what if Amazon wants to kill the barcode?</p>
+            <p>Dissecting hype versus reality of this announcement for the broader industry. Immediately after the news came out from Amazon, many industry connections sent over the article to us.</p>
+          </mj-text>
+          <mj-button background-color="#006AC1" padding="15px 30px" border-radius="3px" href="https://koivision.substack.com/p/so-what-if-amazon-announced-it-wants" padding-bottom="10px" padding-top="0">Learn More</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Card2 
+
+      <mj-section background-color="#002D49" padding-bottom="0px" padding-top="0">
+        <mj-column>
+          <mj-text align="left" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+            <p style="font-size: 19px;"> KoiReader authors world’s 5th largest economy's National
+              Logistics Policy</p>
+            <p> As founding members of Warehousing Association of India, the Indian subsidiary of KoiReader Technologies co-authored India’s, which is now world’s 5th largest economy, National Logistics Policy.
+            </p>
+          </mj-text>
+          <mj-button background-color="#006AC1" padding="15px 30px" border-radius="3px" href="https://koivision.substack.com/p/koireader-authors-worlds-5th-largest" padding-bottom="10px" padding-top="0">Learn More</mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/koireader-authors-worlds-5th-largest.b2ff197f.png" alt="Man 1" width="301px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text color="white" align="left" font-size="18px" font-weight="bold">
+            Smart Factory
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Card1 
+
+      <mj-section background-color="#033663" padding-bottom="0px" padding-top="0">
+        <mj-column>
+          <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/so-what-if-amazon-announced-it-wants.e9a60ff4.png" alt="Man 1" width="301px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-text align="left" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+            <p style="font-size: 19px;">Part 1 of 4. So what if Amazon wants to kill the barcode?</p>
+            <p>Dissecting hype versus reality of this announcement for the broader industry. Immediately after the news came out from Amazon, many industry connections sent over the article to us.</p>
+          </mj-text>
+          <mj-button background-color="#006AC1" padding="15px 30px" border-radius="3px" href="https://koivision.substack.com/p/so-what-if-amazon-announced-it-wants" padding-bottom="10px" padding-top="0">Learn More</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Card2 
+
+      <mj-section background-color="#002D49" padding-bottom="0px" padding-top="0">
+        <mj-column>
+          <mj-text align="left" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+            <p style="font-size: 19px;"> KoiReader authors world’s 5th largest economy's National
+              Logistics Policy</p>
+            <p> As founding members of Warehousing Association of India, the Indian subsidiary of KoiReader Technologies co-authored India’s, which is now world’s 5th largest economy, National Logistics Policy.
+            </p>
+          </mj-text>
+          <mj-button background-color="#006AC1" padding="15px 30px" border-radius="3px" href="https://koivision.substack.com/p/koireader-authors-worlds-5th-largest" padding-bottom="10px" padding-top="0">Learn More</mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/koireader-authors-worlds-5th-largest.b2ff197f.png" alt="Man 1" width="301px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text color="white" align="left" font-size="18px" font-weight="bold">
+            Smart Yard
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Card1 
+
+      <mj-section background-color="#033663" padding-bottom="0px" padding-top="0">
+        <mj-column>
+          <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/so-what-if-amazon-announced-it-wants.e9a60ff4.png" alt="Man 1" width="301px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-text align="left" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+            <p style="font-size: 19px;">Part 1 of 4. So what if Amazon wants to kill the barcode?</p>
+            <p>Dissecting hype versus reality of this announcement for the broader industry. Immediately after the news came out from Amazon, many industry connections sent over the article to us.</p>
+          </mj-text>
+          <mj-button background-color="#006AC1" padding="15px 30px" border-radius="3px" href="https://koivision.substack.com/p/so-what-if-amazon-announced-it-wants" padding-bottom="10px" padding-top="0">Learn More</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Card2 
+
+      <mj-section background-color="#002D49" padding-bottom="0px" padding-top="0">
+        <mj-column>
+          <mj-text align="left" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+            <p style="font-size: 19px;"> KoiReader authors world’s 5th largest economy's National
+              Logistics Policy</p>
+            <p> As founding members of Warehousing Association of India, the Indian subsidiary of KoiReader Technologies co-authored India’s, which is now world’s 5th largest economy, National Logistics Policy.
+            </p>
+          </mj-text>
+          <mj-button background-color="#006AC1" padding="15px 30px" border-radius="3px" href="https://koivision.substack.com/p/koireader-authors-worlds-5th-largest" padding-bottom="10px" padding-top="0">Learn More</mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/koireader-authors-worlds-5th-largest.b2ff197f.png" alt="Man 1" width="301px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+    
+    -->
+
+      <!-- Recent News -->
+      <mj-wrapper background-color="#031D3D">
+
+        <!-- Recent News and Highlights  -->
+
+
+        <mj-section>
+          <mj-column>
+            <mj-text align="center" font-size="20px" font-weight="bold">
+              Recent News and Industry Highlights
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section>
+          <mj-column>
+            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-column inner-background-color="#161616" padding="0px 10px">
+            <mj-button background-color="#161616" padding="0px" align="left" font-weight="bold" color="white" font-size="16px">
+              PepsiCo touts AI barcode readers for distribution centers
+            </mj-button>
+          </mj-column>
+        </mj-section>
+        <mj-section>
+          <mj-column inner-background-color="#161616" padding="0px 10px">
+            <mj-button background-color="#161616" padding="0px" align="right" font-weight="bold" color="#00A5E6" font-size="16px">
+              Supply chain Dive
+            </mj-button>
+          </mj-column>
+        </mj-section>
+
+        <mj-spacer height="15px" />
+
+        <mj-section>
+          <mj-column inner-background-color="#161616" padding="0px 10px">
+            <mj-button background-color="#161616" padding="0px" align="left" font-weight="bold" color="white" font-size="16px">
+              PepsiCo touts AI barcode readers for distribution centers
+            </mj-button>
+          </mj-column>
+        </mj-section>
+        <mj-section>
+          <mj-column inner-background-color="#161616" padding="0px 10px">
+            <mj-button background-color="#161616" padding="0px" align="right" font-weight="bold" color="#00A5E6" font-size="16px">
+              Supply chain Dive
+            </mj-button>
+          </mj-column>
+        </mj-section>
+
+        <mj-spacer height="15px" />
+
+
+        <mj-section>
+          <mj-column inner-background-color="#161616" padding="0px 10px">
+            <mj-button background-color="#161616" padding="0px" align="left" font-weight="bold" color="white" font-size="16px">
+              PepsiCo touts AI barcode readers for distribution centers
+            </mj-button>
+          </mj-column>
+        </mj-section>
+        <mj-section>
+          <mj-column inner-background-color="#161616" padding="0px 10px">
+            <mj-button background-color="#161616" padding="0px" align="right" font-weight="bold" color="#00A5E6" font-size="16px">
+              Supply chain Dive
+            </mj-button>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="4px" border-style="solid" border-color="#00A5E6" padding="0px" />
+        </mj-column>
+      </mj-section>
+
+      <mj-wrapper background-color="#EAEDF4">
+        <!-- Footer -->
+        <mj-section>
+          <mj-column>
+            <mj-social font-size="10px" icon-size="20px" mode="horizontal" padding="3px">
+              <mj-social-element name="linkedin" href="https://www.linkedin.com/company/koireader/">
+                Follow us
+              </mj-social-element>
+            </mj-social>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-text color="black" font-size="10px" align="center" padding="3px">
+              © 2022-23 KoiReader Technologies, Inc. All rights reserved.
+              <br />
+              539 W.Commerce St. #1255, Dallas, Texas 75204, USA
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-text color="black" font-size="12px" align="center" padding="3px"><a href="{{Unsubscribe}}"></a>Unsubscribe</mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+
+
+  </mj-body>
+</mjml>

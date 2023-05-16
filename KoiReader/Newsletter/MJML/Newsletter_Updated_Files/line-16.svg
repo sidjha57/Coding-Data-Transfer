@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 437.11 1.75">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#linear-gradient);
+        stroke-miterlimit: 10;
+        stroke-width: .75px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-6 {
+        mix-blend-mode: hard-light;
+        opacity: 0;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #111;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-7 {
+        mix-blend-mode: difference;
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1=".87" x2="437.11" y2=".87" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".2"/>
+      <stop offset=".01" stop-color="#f2f2f2" stop-opacity=".24"/>
+      <stop offset=".24" stop-color="#575757" stop-opacity=".79"/>
+      <stop offset=".51" stop-color="#262626" stop-opacity=".97"/>
+      <stop offset=".77" stop-color="#626262" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".2"/>
+    </linearGradient>
+    <clipPath id="clippath">
+      <polygon class="cls-2" points="912.93 418.66 312.72 418.66 312.72 610.13 912.93 609.27 912.93 418.66"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" x="300.41" y="-129.56" width="621.3" height="802.21" transform="translate(1222.11 543.1) rotate(180)"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-2" points="517.69 -336.58 -82.52 -336.58 -82.52 -145.1 517.69 -145.96 517.69 -336.58"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-2" x="-94.83" y="-884.79" width="621.3" height="802.21" transform="translate(431.64 -967.37) rotate(180)"/>
+    </clipPath>
+    <image id="image" width="1920" height="2880" xlink:href="../Downloads/Card Images/allec-gomes-gJ8VovObjRA-unsplash.jpg"/>
+  </defs>
+  <g class="cls-4">
+    <g id="Layer_1" data-name="Layer 1">
+      <line class="cls-1" x1="0" y1=".37" x2="437.11" y2="1.37"/>
+      <g class="cls-8">
+        <g>
+          <g class="cls-5">
+            <use transform="translate(923.77 844.97) rotate(-180) scale(.34)" xlink:href="#image"/>
+          </g>
+          <rect class="cls-7" x="298.9" y="-128.94" width="616.22" height="795.65" transform="translate(1214.02 537.77) rotate(180)"/>
+          <rect class="cls-6" x="300.7" y="-224.39" width="616.22" height="892.9" transform="translate(1217.62 444.11) rotate(180)"/>
+        </g>
+      </g>
+      <g class="cls-3">
+        <g class="cls-9">
+          <use transform="translate(528.53 89.74) rotate(-180) scale(.34)" xlink:href="#image"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

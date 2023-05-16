@@ -1,0 +1,10 @@
+[
+  {
+    "ipid": 1,
+    "is_active": 1,
+    "market_name": "NSEEQ",
+    "market_offset_session_start_time": 555,
+    "market_offset_session_end_time": 930,
+    "market_offset_session_extended_timings": 1020
+  }
+]

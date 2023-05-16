@@ -1,0 +1,189 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-image padding="0px"/>
+      <mj-text color="black" line-height="1.5" font-size="16px" padding="0px"/>
+      <mj-section padding="0" />
+      <mj-button inner-padding="6px 25px" />
+      <mj-all font-family="Helvetica" />
+    </mj-attributes>
+    <mj-style>
+      .links a {
+      color: #0066cc;
+      }
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body width="600px">
+
+
+
+
+      <mj-section>
+        <mj-column>
+
+
+          <mj-text>
+            Dear {{Recipient.FirstName}},
+          </mj-text>
+          <mj-text>
+
+            <p>
+              Do you know how <b> KoiRadar enables Autonomous Yard Asset Tracking without RFID/GPS Sensors and Yard Mules</b>?
+            </p>
+
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section>
+        <mj-column padding="0px">
+          <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/koiradar.jpeg">
+
+          </mj-image>
+
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+        <mj-column>
+
+          <mj-text css-class="links">
+
+            <p>
+              We are unleashing the full power of AI and edge computing in your own (back)yard, literally!
+            </p>
+            <p>
+              <b>Here’s what you get</b>:
+            <ul>
+              <li>Trailer and slot visibility with 30-second yard scans without the use of Yard Mules</li>
+              <li>No dependency on Yard Mules</li>
+              <li>No dependencies on or worrying about RFID tag shrinkage</li>
+              <li>High-speed Yard Asset scans at Gate-in and Gate-out and inside the Yard</li>
+              <li>Yard overflow capacity management without worrying about Yard slots</li>
+              <li>Less communication with Drivers and Yard Jockeys, and more focus on operations</li>
+              <li>Yard Intelligent Video Analytics</li>
+              <li>Seamless API Integration with any YMS</li>
+              <li>Flat, Non-transactional Pricing!!</li>
+            </ul>
+
+            </p>
+            <p>
+              <b>KoiRadar is part of KoiVision Platform that has been endorsed by world’s most reputed brand names such as
+                <a href="https://www.koireader.com/koivision/smart-yard">
+                  PepsiCo and NVIDIA </a>
+              </b>. And in doing so, we continue to set the standard for innovation for our industry.
+            </p>
+
+
+          </mj-text>
+
+
+
+          <mj-text css-class="links">
+
+
+
+            <p>
+              If you would like to learn more, please:
+            <ul>
+              <li>
+                Send us an email at
+                <a href="mailto:sales@koireader.com">
+                  sales@koireader.com </a>, or
+              </li>
+              <li>
+                Book a meeting by following:
+                <a href="https://calendly.com/koireader">
+                  www.calendly.com/koireader </a>
+
+              </li>
+
+            </ul>
+
+            </p>
+
+          </mj-text>
+
+          <mj-text>
+
+
+
+            Best,
+
+
+          </mj-text>
+
+          <mj-image src="https://d2fedaqd9kwzub.cloudfront.net/marketing/email-newsletter/ash-image.png"  width="80px" height="90px" align="left">
+
+          </mj-image>
+          <mj-text>
+
+
+
+            Ash
+
+
+          </mj-text>
+
+          <mj-text padding-bottom="0px">
+            The KoiReader Team
+          </mj-text>
+
+          <mj-text css-class="links" text-transform="none" padding-bottom="20px">
+            <a href="https://www.koireader.com">
+              www.koireader.com
+            </a>
+          </mj-text>
+
+        </mj-column>
+
+      </mj-section>
+
+
+
+    <!-- Footer -->
+
+
+
+      <!-- Footer -->
+      <mj-section padding="0px 10px 0 50px" background-color="#F2F7F9">
+        <mj-group>
+          <mj-column vertical-align="middle">
+            <mj-text padding="0px" align="right" font-size="12px">
+              Follow us:
+            </mj-text>
+          </mj-column>
+          <mj-column vertical-align="middle">
+            <mj-social align="left" font-size="12px" icon-size="20px" mode="horizontal" padding="3px">
+              <mj-social-element name="linkedin" href="https://www.linkedin.com/company/koireader/">
+
+              </mj-social-element>
+            </mj-social>
+          </mj-column>
+        </mj-group>
+
+      </mj-section>
+
+      <mj-section background-color="#F2F7F9">
+        <mj-column>
+          <mj-text color="black" font-size="12px" align="center" padding="3px 20px 3px 20px">
+            © 2019-23 KoiReader Technologies, Inc. All rights reserved
+            <br />
+            539 W.Commerce St. #1255, Dallas, Texas 75204, USA
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#F2F7F9">
+        <mj-column>
+          <mj-text color="#737E82" font-size="10px" align="center" padding="3px" text-decoration="underline"><a href="{{Unsubscribe}}"></a>Unsubscribe</mj-text>
+        </mj-column>
+      </mj-section>
+
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,6 @@
+https://cses.fi/problemset/task/1194/
+
+visit this site upload my solution, once accpeted download the test cases.
+In the test cases change A to P, M to G and '#' to '*'.
+
+use Crtl F to find and replace the above mentioned changes in the test cases
